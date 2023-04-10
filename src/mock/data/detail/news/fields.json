@@ -1,0 +1,103 @@
+{
+    "error_code": "0",
+    "error_message": "",
+    "data": [{
+            "id": "10001",
+            "name": "title",
+            "label": "标题",
+            "orderNumber": 1,
+            "isLabelShow": false,
+            "hightlight": true,
+            "isOpen": false,
+            "isValueShow": true,
+            "align": "center",
+            "style": {}
+        },
+        {
+            "id": "10002",
+            "name": "dir",
+            "label": "来源",
+            "orderNumber": 2,
+            "isLabelShow": true,
+            "hightlight": false,
+            "isOpen": false,
+            "isValueShow": true,
+            "align": "left",
+            "style": {}
+        },
+        {
+            "id": "10003",
+            "name": "date",
+            "label": "日期",
+            "orderNumber": 2,
+            "isLabelShow": true,
+            "hightlight": false,
+            "isOpen": false,
+            "isValueShow": true,
+            "align": "left",
+            "style": {}
+        },
+        {
+            "id": "10003",
+            "name": "type",
+            "label": "类型",
+            "orderNumber": 2,
+            "isLabelShow": true,
+            "hightlight": true,
+            "isOpen": false,
+            "isValueShow": true,
+            "align": "left",
+            "style": {}
+        },
+        {
+            "id": "10003",
+            "name": "area",
+            "label": "地区",
+            "orderNumber": 2,
+            "isLabelShow": true,
+            "hightlight": true,
+            "isOpen": false,
+            "isValueShow": true,
+            "align": "left",
+            "style": {}
+        },
+        {
+            "id": "10003",
+            "name": "stage",
+            "label": "阶段",
+            "orderNumber": 2,
+            "isLabelShow": true,
+            "hightlight": true,
+            "isOpen": false,
+            "isValueShow": true,
+            "align": "left",
+            "style": {}
+        },
+        {
+            "id": "10003",
+            "name": "domin",
+            "label": "领域",
+            "orderNumber": 2,
+            "isLabelShow": true,
+            "hightlight": true,
+            "isOpen": false,
+            "isValueShow": true,
+            "align": "left",
+            "style": {}
+        },
+        {
+            "id": "10003",
+            "name": "text",
+            "label": "正文",
+            "orderNumber": 3,
+            "isLabelShow": false,
+            "hightlight": false,
+            "isOpen": false,
+            "isValueShow": true,
+            "align": "left",
+            "style": {
+                "textIndent": "2em"
+            }
+        }
+    ]
+}

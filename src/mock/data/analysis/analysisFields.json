@@ -1,0 +1,25 @@
+ [{
+     "name": "author",
+     "label": "作者"
+   },
+   {
+     "name": "date",
+     "label": "日期"
+   },
+   {
+     "name": "category",
+     "label": "新闻类型"
+   },
+   {
+     "name": "importance",
+     "label": "重要性"
+   },
+   {
+     "name": "keyword",
+     "label": "关键词"
+   },
+   {
+     "name": "org",
+     "label": "机构"
+   }
+ ]

@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "defaultResource": 1,
+      "id": "366775480935780352",
+      "name": "中文文献",
+      "target": "cdxm_patent"
+    },
+    {
+      "defaultResource": 0,
+      "id": "366776020120142464",
+      "name": "英文文献",
+      "target": "cdxm_paper"
+    },
+    {
+      "defaultResource": 0,
+      "id": "366775090878091264",
+      "name": "中文专利",
+      "target": "cdxm_news"
+    },
+    {
+      "defaultResource": 0,
+      "id": "366775090878091204",
+      "name": "英文专利",
+      "target": "cdxm_news"
+    }
+  ]
+}

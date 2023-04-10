@@ -1,0 +1,78 @@
+[{
+            "id": "10001",
+            "name": "title",
+            "label": "标题",
+            "orderNumber": 1,
+            "isLabelShow": false,
+            "maxWords": 120,
+            "isOpen": false,
+            "isValueShow": true,
+            "style": {}
+        },
+        {
+            "id": "10002",
+            "name": "content",
+            "label": "内容",
+            "orderNumber": 2,
+            "isLabelShow": true,
+            "maxWords": 120,
+            "isOpen": false,
+            "isValueShow": true,
+            "style": {}
+        },
+        {
+            "id": "10003",
+            "name": "type",
+            "label": "类型",
+            "orderNumber": 2,
+            "isLabelShow": true,
+            "maxWords": 120,
+            "isOpen": false,
+            "isValueShow": true,
+            "style": {}
+        },
+        {
+            "id": "10003",
+            "name": "area",
+            "label": "地区",
+            "orderNumber": 3,
+            "isLabelShow": true,
+            "maxWords": 120,
+            "isOpen": false,
+            "isValueShow": true,
+            "style": {}
+        },
+        {
+            "id": "10003",
+            "name": "stage",
+            "label": "阶段",
+            "orderNumber": 3,
+            "isLabelShow": true,
+            "maxWords": 120,
+            "isOpen": false,
+            "isValueShow": true,
+            "style": {}
+        },
+        {
+            "id": "10003",
+            "name": "date",
+            "label": "发布日期",
+            "orderNumber": 4,
+            "isLabelShow": true,
+            "maxWords": 120,
+            "isOpen": false,
+            "isValueShow": true,
+            "style": {}
+        },
+        {
+            "id": "10003",
+            "name": "text",
+            "label": "详情",
+            "orderNumber": 5,
+            "isLabelShow": true,
+            "maxWords": 120,
+            "isOpen": false,
+            "isValueShow": true,
+            "style": {}
+        }
+    ]

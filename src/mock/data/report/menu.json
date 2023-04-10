@@ -1,0 +1,50 @@
+[
+  {
+    "id": "417481643058532352",
+    "parentId": "0",
+    "title": "1目录",
+    "isParent": true,
+    "projectId": "366773660297465856",
+    "resourceId": "01"
+  },
+  {
+    "id": "412748164305853",
+    "parentId": "417481643058532352",
+    "title": "1.1目录",
+    "isParent": false,
+    "projectId": "366773660297465856",
+    "resourceId": "01"
+  },
+  {
+    "id": "417481643012395008",
+    "parentId": "0",
+    "title": "2目录",
+    "isParent": true,
+    "projectId": "366773660297465856",
+    "resourceId": "01"
+  },
+  {
+    "id": "417481642764931072",
+    "parentId": "0",
+    "title": "3目录",
+    "isParent": true,
+    "projectId": "366773660297465856",
+    "resourceId": "01"
+  },
+  {
+    "id": "417481642823651328",
+    "parentId": "0",
+    "title": "4目录",
+    "isParent": false,
+    "projectId": "366773660297465856",
+    "resourceId": "01"
+  },
+  {
+    "id": "417481643142418432",
+    "parentId": "0",
+    "title": "5目录",
+    "isParent": true,
+    "projectId": "366773660297465856",
+    "resourceId": "01"
+  }
+]

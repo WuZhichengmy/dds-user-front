@@ -1,0 +1,12 @@
+{
+        "id": "6",
+        "type": "5",
+        "name": "Logo",
+        "config": {},
+        "data": {
+            "logo": "https://s3.ax1x.com/2021/01/27/svbfv4.png",
+            "titleCn": "数据展示系统",
+            "titleEn": "Data Display System"
+        }
+   
+}

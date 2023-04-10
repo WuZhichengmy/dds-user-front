@@ -1,0 +1,36 @@
+.ivu-drawer-wrap {
+  &.search {
+    .ivu-drawer {
+      width: 100% !important;
+      top: 0 !important;
+
+      .ivu-drawer-header {
+        background: var(--theme);
+      }
+
+      .ivu-drawer-close {
+        i {
+          color: #fff;
+          font-weight: 600;
+        }
+
+      }
+
+      .ivu-drawer-header-inner {
+        font-size: 18px;
+        font-weight: 600;
+        letter-spacing: 2px;
+        color: #fff;
+        text-align: center;
+      }
+
+      .ivu-drawer-body {
+        padding: 0;
+
+        .search-content-left-filter {
+          padding-bottom: 60px;
+        }
+      }
+    }
+  }
+}

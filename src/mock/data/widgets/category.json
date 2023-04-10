@@ -1,0 +1,49 @@
+{
+  "data": {
+    "id": "8",
+    "type": "4",
+    "name": "Statistics",
+    "config": {
+      "xAxis": [
+        {
+          "type": "category",
+          "name": "时间(年)"
+        }
+      ],
+      "yAxis": [
+        {
+          "type": "value",
+          "name": "数量 (篇)"
+        }
+      ],
+      "series": [
+        {
+          "name": "资源数量",
+          "type": "bar",
+          "showBackground": true,
+          "barWidth": "75%"
+        }
+      ],
+      "color": ["#C23531", "#215643", "#427DCC"]
+    },
+    "data": {
+      "Category": {
+        "axis": ["Evaluation", "fertiliser", "organic", "otter"],
+        "data": [
+          {
+            "title": "新闻",
+            "data": [12, 2010, 300, 4000]
+          },
+          {
+            "title": "论文",
+            "data": [1010, 200, 300, 10]
+          },
+          {
+            "title": "专利",
+            "data": [1100, 200, 31, 122]
+          }
+        ]
+      }
+    }
+  }
+}

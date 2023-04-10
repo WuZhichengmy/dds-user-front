@@ -1,0 +1,35 @@
+{
+  "data": {
+    "id": "7",
+    "type": "4",
+    "name": "PanelGroup",
+    "config": {
+      "color": ["#40c9c6", "#f4516c", "#215643", "#005397"],
+      "icon": ["Steve-Jobs", "education", "tree", "dictionary"]
+    },
+    "data": {
+      "PanelGroup": [
+        {
+          "resourceId": 366775480935780352,
+          "name": "中文文献",
+          "count": 1000
+        },
+        {
+          "resourceId": 366776020120142464,
+          "name": "英文文献",
+          "count": 2000
+        },
+        {
+          "resourceId": 366775090878091264,
+          "name": "中文专利",
+          "count": 1222
+        },
+        {
+          "resourceId": 366775090878091204,
+          "name": "英文专利",
+          "count": 1222
+        }
+      ]
+    }
+  }
+}

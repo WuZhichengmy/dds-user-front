@@ -1,0 +1,12 @@
+{
+        "id": "0",
+        "type": "0",
+        "name": "Banner",
+        "config": {},
+        "data": {
+            "logo": "",
+            "titleCn": "数据展示系统",
+            "titleEn": "Data Display System"
+        }
+    
+}

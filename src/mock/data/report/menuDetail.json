@@ -1,0 +1,80 @@
+{
+  "components": [
+    {
+      "data": {
+        "title": "气泡图",
+        "arr": [
+          [0, 0, 1],
+          [0, 1, 1],
+          [0, 2, 1],
+          [1, 3, 1],
+          [1, 4, 1],
+          [1, 5, 1],
+          [2, 3, 2],
+          [3, 6, 1],
+          [3, 7, 1],
+          [3, 8, 1],
+          [3, 9, 1],
+          [3, 4, 3],
+          [4, 6, 1],
+          [4, 10, 1],
+          [4, 11, 1],
+          [5, 10, 1],
+          [5, 3, 1],
+          [5, 4, 1],
+          [5, 5, 1],
+          [6, 10, 1],
+          [6, 2, 1],
+          [6, 3, 1],
+          [7, 10, 1],
+          [7, 7, 1],
+          [7, 9, 1],
+          [7, 4, 1],
+          [8, 6, 2],
+          [8, 2, 1],
+          [8, 9, 2]
+        ],
+        "contentDesc": "统计量",
+        "xAxis": {
+          "data": ["0", "1", "2", "3", "4", "5", "6", "7", "8"],
+          "name": "重要性"
+        },
+        "yAxis": {
+          "data": [
+            "HYPRES to Develop Cryogenic Memory Solution for IARPA Superconducting Computers Program",
+            "HYPRES’ role in IARPA C3 program referenced in IEEE Spectrum",
+            "IARPA Launches \"SuperTools\" Program to Develop Superconducting Circuit Design Tools",
+            "IARPA Launches Program to Develop a Superconducting Computer",
+            "IARPA Taps IBM, Northrop, Raytheon BBN Teams for Cryogenic Computer Tech Program",
+            "IARPA awards contracts for supercomputer development",
+            "IARPA funding the scaling of superconducting computing for energy efficient exaflop computing",
+            "IARPA releases RFI for Electronic Design Automation tools for Superconducting Electronics (EDA for SCE)",
+            "IARPA releases solicitation for superconducting research in high-performance computing (HPC)",
+            "IARPA to Develop a Superconducting SuperComputer",
+            "Quantum Programs at IARPA",
+            "US intelligence agency IARPA launches supercomputing research initiative"
+          ],
+          "name": "标题"
+        }
+      },
+      "config": null,
+      "type": "4",
+      "desc": "Satellite-Based Estimation of Hourly PM2.5 Concentrations Using a Vertical-Humidity Correction Method from Himawari-AOD in Hebei."
+    },
+    {
+      "data": {
+        "title": "xxx",
+        "series": {
+          "data": ["1", "2", "1", "2", "1", "2", "1", "2", "1", "2"]
+        },
+        "xAxis": {
+          "data": ["0", "1", "2", "3", "4", "5", "6", "7", "8"],
+          "name": "重要性"
+        }
+      },
+      "config": null,
+      "type": "0",
+      "desc": "Satellite-Based Estimation of Hourly PM2.5 Concentrations Using a Vertical-Humidity Correction Method from Himawari-AOD in Hebei."
+    }
+  ]
+}

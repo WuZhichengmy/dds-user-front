@@ -1,0 +1,299 @@
+{
+    "data": {
+
+        "id": "5",
+        "type": "1",
+        "name": "ArticleList",
+        "config": {
+            "icon": ["md-globe", "md-globe", "md-paper"]
+        },
+        "data": {
+            "ArticleList": [{
+                "resourceId": 366775090878091260,
+                "name": "新闻动态",
+                "icon": "md-globe",
+                "data": [{
+                    "id": 10001,
+                    "resourceId": 366775090878091260,
+                    "display_type": "",
+                    "author": "111",
+                    "title": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "desc": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "content": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "date": "2020-12-22"
+                }, {
+                    "id": 10002,
+                    "resourceId": 366775090878091260,
+                    "display_type": "",
+                    "author": "111",
+                    "title": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "desc": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "content": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "date": "2020-12-22"
+                }, {
+                    "id": 10003,
+                    "resourceId": 366775090878091260,
+                    "display_type": "",
+                    "author": "111",
+                    "title": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "desc": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "content": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "date": "2020-12-22"
+                }, {
+                    "id": 10004,
+                    "resourceId": 366775090878091260,
+                    "display_type": "",
+                    "author": "111",
+                    "title": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "desc": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "content": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "date": "2020-12-22"
+                }, {
+                    "id": 10005,
+                    "resourceId": 366775090878091260,
+                    "display_type": "",
+                    "author": "111",
+                    "title": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "desc": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "content": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "date": "2020-12-22"
+                }, {
+                    "id": 10006,
+                    "resourceId": 366775090878091260,
+                    "display_type": "",
+                    "author": "111",
+                    "title": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "desc": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "content": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "date": "2020-12-22"
+                }, {
+                    "id": 10007,
+                    "resourceId": 366775090878091260,
+                    "display_type": "",
+                    "author": "111",
+                    "title": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "desc": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "content": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "date": "2020-12-22"
+                }, {
+                    "id": 10008,
+                    "resourceId": 366775090878091260,
+                    "display_type": "",
+                    "author": "111",
+                    "title": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "desc": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "content": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "date": "2020-12-22"
+                }, {
+                    "id": 10009,
+                    "resourceId": 366775090878091260,
+                    "display_type": "",
+                    "author": "111",
+                    "title": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "desc": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "content": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "date": "2020-12-22"
+                }, {
+                    "id": 10010,
+                    "resourceId": 366775090878091260,
+                    "display_type": "",
+                    "author": "111",
+                    "title": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "desc": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "content": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "date": "2020-12-22"
+                }]
+            }, {
+                "resourceId": 366776020126142460,
+                "name": "论文动态",
+                "icon": "md-paper",
+                "data": [{
+                    "id": 10001,
+                    "resourceId": 366775090878091260,
+                    "display_type": "",
+                    "author": "111",
+                    "title": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "desc": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "content": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "date": "2020-12-22"
+                }, {
+                    "id": 10002,
+                    "resourceId": 366775090878091260,
+                    "display_type": "",
+                    "author": "111",
+                    "title": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "desc": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "content": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "date": "2020-12-22"
+                }, {
+                    "id": 10003,
+                    "resourceId": 366775090878091260,
+                    "display_type": "",
+                    "author": "111",
+                    "title": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "desc": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "content": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "date": "2020-12-22"
+                }, {
+                    "id": 10004,
+                    "resourceId": 366775090878091260,
+                    "display_type": "",
+                    "author": "111",
+                    "title": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "desc": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "content": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "date": "2020-12-22"
+                }, {
+                    "id": 10005,
+                    "resourceId": 366775090878091260,
+                    "display_type": "",
+                    "author": "111",
+                    "title": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "desc": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "content": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "date": "2020-12-22"
+                }, {
+                    "id": 10006,
+                    "resourceId": 366775090878091260,
+                    "display_type": "",
+                    "author": "111",
+                    "title": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "desc": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "content": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "date": "2020-12-22"
+                }, {
+                    "id": 10007,
+                    "resourceId": 366775090878091260,
+                    "display_type": "",
+                    "author": "111",
+                    "title": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "desc": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "content": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "date": "2020-12-22"
+                }, {
+                    "id": 10008,
+                    "resourceId": 366775090878091260,
+                    "display_type": "",
+                    "author": "111",
+                    "title": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "desc": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "content": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "date": "2020-12-22"
+                }, {
+                    "id": 10009,
+                    "resourceId": 366775090878091260,
+                    "display_type": "",
+                    "author": "111",
+                    "title": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "desc": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "content": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "date": "2020-12-22"
+                }, {
+                    "id": 10010,
+                    "resourceId": 366775090878091260,
+                    "display_type": "",
+                    "author": "111",
+                    "title": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "desc": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "content": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "date": "2020-12-22"
+                }]
+            }, {
+                "resourceId": "3",
+                "name": "专利动态",
+                "icon": "md-globe",
+                "data": [{
+                    "id": 10001,
+                    "resourceId": 366775090878091260,
+                    "display_type": "",
+                    "author": "111",
+                    "title": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "desc": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "content": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "date": "2020-12-22"
+                }, {
+                    "id": 10002,
+                    "resourceId": 366775090878091260,
+                    "display_type": "",
+                    "author": "111",
+                    "title": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "desc": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "content": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "date": "2020-12-22"
+                }, {
+                    "id": 10003,
+                    "resourceId": 366775090878091260,
+                    "display_type": "",
+                    "author": "111",
+                    "title": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "desc": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "content": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "date": "2020-12-22"
+                }, {
+                    "id": 10004,
+                    "resourceId": 366775090878091260,
+                    "display_type": "",
+                    "author": "111",
+                    "title": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "desc": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "content": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "date": "2020-12-22"
+                }, {
+                    "id": 10005,
+                    "resourceId": 366775090878091260,
+                    "display_type": "",
+                    "author": "111",
+                    "title": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "desc": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "content": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "date": "2020-12-22"
+                }, {
+                    "id": 10006,
+                    "resourceId": 366775090878091260,
+                    "display_type": "",
+                    "author": "111",
+                    "title": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "desc": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "content": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "date": "2020-12-22"
+                }, {
+                    "id": 10007,
+                    "resourceId": 366775090878091260,
+                    "display_type": "",
+                    "author": "111",
+                    "title": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "desc": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "content": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "date": "2020-12-22"
+                }, {
+                    "id": 10008,
+                    "resourceId": 366775090878091260,
+                    "display_type": "",
+                    "author": "111",
+                    "title": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "desc": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "content": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "date": "2020-12-22"
+                }, {
+                    "id": 10009,
+                    "resourceId": 366775090878091260,
+                    "display_type": "",
+                    "author": "111",
+                    "title": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "desc": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "content": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "date": "2020-12-22"
+                }, {
+                    "id": 10010,
+                    "resourceId": 366775090878091260,
+                    "display_type": "",
+                    "author": "111",
+                    "title": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "desc": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "content": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+                    "date": "2020-12-22"
+                }]
+            }]
+        }
+    }
+}

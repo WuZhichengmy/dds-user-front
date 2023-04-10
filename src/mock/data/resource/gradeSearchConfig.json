@@ -1,0 +1,51 @@
+[
+  {
+    "resourceId": "366775090878091264",
+    "advancedSearchFields": [
+      {
+        "name": "title",
+        "label": "标题"
+      },
+      {
+        "name": "author",
+        "label": "作者"
+      }
+    ],
+    "name": "新闻",
+    "defaultResource": 0
+  },
+  {
+    "resourceId": "366775480935780352",
+    "advancedSearchFields": [
+      {
+        "name": "title",
+        "label": "标题"
+      },
+      {
+        "name": "inventor",
+        "label": "发明人"
+      },
+      {
+        "name": "agency",
+        "label": "机构"
+      }
+    ],
+    "name": "专利",
+    "defaultResource": 0
+  },
+  {
+    "resourceId": "366776020126142464",
+    "advancedSearchFields": [
+      {
+        "name": "TI",
+        "label": "标题"
+      },
+      {
+        "name": "AU",
+        "label": "作者"
+      }
+    ],
+    "name": "论文",
+    "defaultResource": 1
+  }
+]

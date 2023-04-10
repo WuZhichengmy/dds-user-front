@@ -1,0 +1,249 @@
+{
+  "error_code": "0",
+  "error_message": "",
+  "data": {
+    "detail": {
+      "id": "10001",
+      "typeString": "paper",
+      "title": "Manure, biogas digestate and crop residue management affects methane gas emissions from rice paddy fields on Vietnamese smallholder livestock farms",
+      "referenceType": "Journal Article",
+      "recordNumber": "836",
+      "year": "2015",
+      "author": "Vu, Q. D., de Neergaard, A., Tran, T. D., Hoang, Q. Q., Ly, P., Tran, T. M. and Jensen, L. S.",
+      "journal": "Nutrient Cycling in Agroecosystems",
+      "issn": "1385-1314",
+      "doi": "10.1007/s10705-015-9746-x",
+      "volume": "103",
+      "abstract": "Greenhouse gas (CH4 and N2O) emissions from rice paddy fields amended by differently treated manure and crop residue inputs [fresh manure (FM), composted manure (CM), liquid biogas digestate from manure (D), D mixed with biochar (D + B) or D mixed with rice straw and composted before application (CD + RS)], were compared in a field experiment, also including two mineral nitrogen fertiliser controls (N1, N2). The trial was performed on a degraded soil in Bac Giang Province in northern Vietnam with a three-crop per year rotation (summer rice-maize-spring rice). CH4 and N2O fluxes from the two rice crops were measured using static chambers. Fluxes of N2O were below or close to the detection limit at nearly all sampling times in both seasons and therefore considered negligible. However, the CH4 emissions were significant and their temporal pattern differed markedly between the rice seasons. In the summer rice season, the D + B + N1 and D + N1 treatments had significantly lower cumulative CH4 emissions (156 and 162 kg CH4 ha(-1) crop(-1)) than CM + N1, CD + RS + N1 and FM + N1 treatments (217, 283 and 288 kg CH4 ha(-1) crop(-1), respectively). In the spring rice season, CH4 emissions were generally much lower, and the D + B + N1 and D + N1 treatments emitted significantly less CH4 (44 and 72 kg CH4 ha(-1) crop(-1)) Greenhouse gas (CH4 and N2O) emissions from rice paddy fields amended by differently treated manure and crop residue inputs [fresh manure (FM), composted manure (CM), liquid biogas digestate from manure (D), D mixed with biochar (D + B) or D mixed with rice straw and composted before application (CD + RS)], were compared in a field experiment, also including two mineral nitrogen fertiliser controls (N1, N2). The trial was performed on a degraded soil in Bac Giang Province in northern Vietnam with a three-crop per year rotation (summer rice-maize-spring rice). CH4 and N2O fluxes from the two rice crops were measured using static chambers. Fluxes of N2O were below or close to the detection limit at nearly all sampling times in both seasons and therefore considered negligible. However, the CH4 emissions were significant and their temporal pattern differed markedly between the rice seasons. In the summer rice season, the D + B + N1 and D + N1 treatments had significantly lower cumulative CH4 emissions (156 and 162 kg CH4 ha(-1) crop(-1)) than CM + N1, CD + RS + N1 and FM + N1 treatments (217, 283 and 288 kg CH4 ha(-1) crop(-1), respectively). In the spring rice season, CH4 emissions were generally much lower, and the D + B + N1 and D + N1 treatments emitted significantly less CH4 (44 and 72 kg CH4 ha(-1) crop(-1)) ",
+      "fileName": "ERAWATCH Country Report France 2009.pdf",
+      "path": "http://dpd-oss.oss-cn-hangzhou.aliyuncs.com/ERAWATCH Country Report France 2009.pdf"
+    },
+    "related": [{
+        "id": "10001",
+        "name": "相关文章",
+        "data": [{
+            "id": 281931862551564288,
+            "type": "patent",
+            "display_type": null,
+            "author": "俞益波 , 孙方军 , 陆宇涛",
+            "title": "一种气源动力过冷液氮循环系统",
+            "desc": "本实用新型涉及一种气源动力过冷液氮循环系统，包括：热负荷、液氮杜瓦、制冷机、储液杜瓦、回液杜瓦、压缩氮气气源、配套管路及阀门；热负荷为超导磁体或其他需要提供过冷液氮的装置；液氮杜瓦架高设置，储存系统大部分液氮，与储液杜瓦配合，利用液位差提供液氮自液氮杜瓦至回液杜瓦的流动动力；制冷机为系统提供冷源；压缩氮气气源提供回液杜瓦至液氮杜瓦的液氮流动动力；本系统的优点在于：使用重力及压缩氮气提供的压力替代低温液氮泵或风机等输送设备，作为系统液氮循环的动力，规避了低温液氮泵或风机等输送设备的采购、维护成本以及液氮泵使用过程中的条件限制，降低了能耗和液氮损耗。译 原文 =\u003e 英文V",
+            "content": null,
+            "detail_display_fields": null,
+            "search_display_fields": null
+          },
+          {
+            "id": 281931862543175680,
+            "type": "patent",
+            "display_type": null,
+            "author": "肖梦秋",
+            "title": "一种蜡类相变材料的生产设备",
+            "desc": "本实用新型公开了一种蜡类相变材料的生产设备，包括装置本体；所述装置本体上侧安装有进料口，所述装置本体底端安装有搅拌仓，所述搅拌仓底端安装有电动机，所述搅拌仓外侧安装有保温层，所述搅拌仓外侧缠绕有供热管，所述供热管一端安装有循环泵，所述搅拌仓上侧安装有出气管，所述出气管上侧安装有水冷箱，所述搅拌仓底端安装有出料口，所述装置本体一侧安装有挤出装置，所述挤出装置一侧安装有驱动电机。本实用新型当出气管将搅拌仓内部的水蒸气进行排出时，会带走大量的热量和部分材料蒸汽，通过水冷箱可以对热量进行吸收和材料蒸汽进行冷凝防止浪费，通过超导热管将热量进行集中在集热箱内部，导入电热装置进行再次利用。",
+            "content": null,
+            "detail_display_fields": null,
+            "search_display_fields": null
+          },
+          {
+            "id": 281931862538981376,
+            "type": "patent",
+            "display_type": null,
+            "author": "李凯夫 , 张俊",
+            "title": "智能储能式制冷制热系统",
+            "desc": "本实用新型公开了智能储能式制冷制热系统，包括制冷系统、储冷系统、冷空气交换装置、冷风出风管、热回收储热箱、电加热储热箱、智能热水恒温系统、热水出水装置，所述制冷系统内部设置有冷冻压缩机，所述冷冻压缩机下方的管道上设置有膨胀阀，所述制冷系统内部设置有制冷管道，所述制冷管道内部设置有制冷剂，所述制冷系统连接有所述储冷系统，所述储冷系统连接有所述冷空气交换装置，所述冷空气交换装置内部设置有第二蒸发器，所述第二蒸发器上设置有超导液泵，所述第二蒸发器上方设置有鼓风机。有益效果在于：可以利用制冷系统的余热进行加热，并在用电低谷时进行自动加热和制泠、将低温和高温通过储冷系统和储热系统储存，从而解决发电和用电的平衡，达到减少能源消耗，节省电费。",
+            "content": null,
+            "detail_display_fields": null,
+            "search_display_fields": null
+          }
+        ]
+      },
+      {
+        "id": "10001",
+        "name": "相关作者",
+        "data": [{
+            "id": 281931862551564288,
+            "type": "patent",
+            "display_type": null,
+            "author": "俞益波 , 孙方军 , 陆宇涛",
+            "title": "一种气源动力过冷液氮循环系统",
+            "desc": "本实用新型涉及一种气源动力过冷液氮循环系统，包括：热负荷、液氮杜瓦、制冷机、储液杜瓦、回液杜瓦、压缩氮气气源、配套管路及阀门；热负荷为超导磁体或其他需要提供过冷液氮的装置；液氮杜瓦架高设置，储存系统大部分液氮，与储液杜瓦配合，利用液位差提供液氮自液氮杜瓦至回液杜瓦的流动动力；制冷机为系统提供冷源；压缩氮气气源提供回液杜瓦至液氮杜瓦的液氮流动动力；本系统的优点在于：使用重力及压缩氮气提供的压力替代低温液氮泵或风机等输送设备，作为系统液氮循环的动力，规避了低温液氮泵或风机等输送设备的采购、维护成本以及液氮泵使用过程中的条件限制，降低了能耗和液氮损耗。译 原文 =\u003e 英文V",
+            "content": null,
+            "detail_display_fields": null,
+            "search_display_fields": null
+          },
+          {
+            "id": 281931862543175680,
+            "type": "patent",
+            "display_type": null,
+            "author": "肖梦秋",
+            "title": "一种蜡类相变材料的生产设备",
+            "desc": "本实用新型公开了一种蜡类相变材料的生产设备，包括装置本体；所述装置本体上侧安装有进料口，所述装置本体底端安装有搅拌仓，所述搅拌仓底端安装有电动机，所述搅拌仓外侧安装有保温层，所述搅拌仓外侧缠绕有供热管，所述供热管一端安装有循环泵，所述搅拌仓上侧安装有出气管，所述出气管上侧安装有水冷箱，所述搅拌仓底端安装有出料口，所述装置本体一侧安装有挤出装置，所述挤出装置一侧安装有驱动电机。本实用新型当出气管将搅拌仓内部的水蒸气进行排出时，会带走大量的热量和部分材料蒸汽，通过水冷箱可以对热量进行吸收和材料蒸汽进行冷凝防止浪费，通过超导热管将热量进行集中在集热箱内部，导入电热装置进行再次利用。",
+            "content": null,
+            "detail_display_fields": null,
+            "search_display_fields": null
+          },
+          {
+            "id": 281931862538981376,
+            "type": "patent",
+            "display_type": null,
+            "author": "李凯夫 , 张俊",
+            "title": "智能储能式制冷制热系统",
+            "desc": "本实用新型公开了智能储能式制冷制热系统，包括制冷系统、储冷系统、冷空气交换装置、冷风出风管、热回收储热箱、电加热储热箱、智能热水恒温系统、热水出水装置，所述制冷系统内部设置有冷冻压缩机，所述冷冻压缩机下方的管道上设置有膨胀阀，所述制冷系统内部设置有制冷管道，所述制冷管道内部设置有制冷剂，所述制冷系统连接有所述储冷系统，所述储冷系统连接有所述冷空气交换装置，所述冷空气交换装置内部设置有第二蒸发器，所述第二蒸发器上设置有超导液泵，所述第二蒸发器上方设置有鼓风机。有益效果在于：可以利用制冷系统的余热进行加热，并在用电低谷时进行自动加热和制泠、将低温和高温通过储冷系统和储热系统储存，从而解决发电和用电的平衡，达到减少能源消耗，节省电费。",
+            "content": null,
+            "detail_display_fields": null,
+            "search_display_fields": null
+          }
+        ]
+      }
+    ],
+    "hotwords": [{
+        "resourceId": 366775090878091260,
+        "name": "Irish Spring"
+      },
+      {
+        "resourceId": 366776020126142460,
+        "name": "Redken"
+      },
+      {
+        "resourceId": "3",
+        "name": "Natura"
+      },
+      {
+        "resourceId": "7",
+        "name": "Smashbox"
+      },
+      {
+        "resourceId": "4",
+        "name": "ClarinsMen"
+      },
+      {
+        "resourceId": 366775090878091260,
+        "name": "NARS Cosmetics"
+      },
+      {
+        "resourceId": 366775090878091260,
+        "name": "Kérastase"
+      },
+      {
+        "resourceId": 366775090878091260,
+        "name": "ClarinsMen"
+      },
+      {
+        "resourceId": 366775090878091260,
+        "name": "Colourpop Cosmetics"
+      },
+      {
+        "resourceId": 366776020126142460,
+        "name": "LOreal"
+      },
+      {
+        "resourceId": "5",
+        "name": "Shiseido"
+      },
+      {
+        "resourceId": 366775090878091260,
+        "name": "Colourpop Cosmetics"
+      }
+    ],
+    "recommend": [{
+        "id": 10000,
+        "type": "news",
+        "display_type": "",
+        "author": "111",
+        "title": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+        "desc": "Evaluation of mustalist-wrapperrd meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+        "content": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+        "date": "2020-12-22"
+      },
+      {
+        "id": 10000,
+        "type": "news",
+        "display_type": "",
+        "author": "111",
+        "title": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+        "desc": "Evaluation of mustalist-wrapperrd meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+        "content": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+        "date": "2020-12-22"
+      },
+      {
+        "id": 10000,
+        "type": "news",
+        "display_type": "",
+        "author": "111",
+        "title": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+        "desc": "Evaluation of mustalist-wrapperrd meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+        "content": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+        "date": "2020-12-22"
+      },
+      {
+        "id": 10000,
+        "type": "news",
+        "display_type": "",
+        "author": "111",
+        "title": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+        "desc": "Evaluation of mustalist-wrapperrd meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+        "content": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+        "date": "2020-12-22"
+      },
+      {
+        "id": 10000,
+        "type": "news",
+        "display_type": "",
+        "author": "111",
+        "title": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+        "desc": "Evaluation of mustalist-wrapperrd meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+        "content": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+        "date": "2020-12-22"
+      },
+      {
+        "id": 10000,
+        "type": "news",
+        "display_type": "",
+        "author": "111",
+        "title": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+        "desc": "Evaluation of mustalist-wrapperrd meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+        "content": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+        "date": "2020-12-22"
+      },
+      {
+        "id": 10000,
+        "type": "news",
+        "display_type": "",
+        "author": "111",
+        "title": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+        "desc": "Evaluation of mustalist-wrapperrd meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+        "content": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+        "date": "2020-12-22"
+      },
+      {
+        "id": 10000,
+        "type": "news",
+        "display_type": "",
+        "author": "111",
+        "title": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+        "desc": "Evaluation of mustalist-wrapperrd meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+        "content": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+        "date": "2020-12-22"
+      },
+      {
+        "id": 10000,
+        "type": "news",
+        "display_type": "",
+        "author": "111",
+        "title": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+        "desc": "Evaluation of mustalist-wrapperrd meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+        "content": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+        "date": "2020-12-22"
+      },
+      {
+        "id": 10000,
+        "type": "news",
+        "display_type": "",
+        "author": "111",
+        "title": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+        "desc": "Evaluation of mustalist-wrapperrd meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+        "content": "Evaluation of mustard meal as organic fertiliser on tef (Eragrostis tef (Zucc) trotter) under field and greenhouse conditions",
+        "date": "2020-12-22"
+      }
+    ]
+  }
+}

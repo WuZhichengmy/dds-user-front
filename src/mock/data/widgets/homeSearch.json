@@ -1,0 +1,50 @@
+{
+    "error_code": "0",
+    "error_message": "",
+    "data": {
+        "id": "0",
+        "type": "0",
+        "name": "baseSearch",
+        "config": {
+            "tabsStyle": "dark",
+            "style": "dark",
+            "size": "large",
+            "icon": ["md-analytics"]
+        },
+        "data": {
+            "tab": [{
+                    "name": "基础数据",
+                    "type": "search"
+                },
+                {
+                    "name": "分析报告",
+                    "type": "report"
+                }
+            ],
+            "resource": [{
+                    "defaultResource": 0,
+                    "id": 366775480935780352,
+                    "name": "专利",
+                    "target": "cdxm_patent"
+                }, {
+                    "defaultResource": 0,
+                    "id": 366776020126142464,
+                    "name": "论文",
+                    "target": "cdxm_paper"
+                },
+                {
+                    "defaultResource": 1,
+                    "id": 366775090878091264,
+                    "name": "新闻",
+                    "target": "cdxm_news"
+                },
+                {
+                    "defaultResource": 0,
+                    "id": 366776020121142464,
+                    "name": "科技成果",
+                    "target": "cdxm_paper"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,18 @@
+.ivu-card-body {
+    padding: 0 !important;
+}
+
+.list-drawer-class .ivu-drawer {
+    top: 60px !important;
+}
+
+.list-drawer-class.top .ivu-drawer {
+    top: 50px !important;
+}
+.list-drawer-class.top-0 .ivu-drawer {
+    top: 0 !important;
+}
+.ivu-drawer-mask {
+    top: 60px !important;
+    z-index: 999 !important;
+}

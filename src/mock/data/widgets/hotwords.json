@@ -1,0 +1,56 @@
+{
+  "data": {
+    "id": "3",
+    "type": "3",
+    "name": "TagsCloud",
+    "config": {
+      "width": 480,
+      "height": 410,
+      "speed": 1000,
+      "randomColor": true,
+      "color": [
+        "#427dc9",
+        "#a69fd5",
+        "#4152b9",
+        "#34418d",
+        "#e59c6f",
+        "#629667",
+        "#85b7be",
+        "#8dc9b0",
+        "#f29a9e"
+      ]
+    },
+    "data": {
+      "TagsCloud": [
+        {
+          "id": "10001",
+          "name": "中文文献",
+          "resourceId": 366775480935780352,
+          "value": "hotwords",
+          "data": ["中文文献", "Redken", "1111", "22220", "3333"]
+        },
+        {
+          "id": "10001",
+          "resourceId": 366776020120142464,
+          "name": "英文文献",
+          "value": "hotwords",
+          "data": ["英文文献", "Redken", "1111", "22220", "3333"]
+        },
+        {
+          "resourceId": 366775090878091264,
+          "id": "10001",
+          "name": "中文专利",
+          "value": "hotwords",
+          "data": ["中文专利", "Redken", "1111", "22220", "3333"]
+        },
+        {
+          "resourceId": 366775090878091204,
+          "id": "10001",
+          "name": "英文专利",
+          "value": "hotwords",
+          "data": ["英文专利", "Redken", "1111", "22220", "3333"]
+        }
+      ]
+    }
+  }
+}

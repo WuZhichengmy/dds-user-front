@@ -1,0 +1,89 @@
+{
+    "error_code": "0",
+    "error_message": "",
+    "data": [{
+            "id": "10001",
+            "name": "title",
+            "label": "标题",
+            "orderNumber": 1,
+            "isLabelShow": false,
+            "hightlight": true,
+            "isOpen": false,
+            "isValueShow": true,
+            "align": "left",
+            "style": {}
+        },
+        {
+            "id": "10002",
+            "name": "detail",
+            "label": "详情",
+            "orderNumber": 7,
+            "isLabelShow": true,
+            "hightlight": false,
+            "isOpen": false,
+            "isValueShow": true,
+            "align": "left",
+            "style": {}
+        },
+        {
+            "id": "10004",
+            "name": "importance",
+            "label": "重要性",
+            "orderNumber": 4,
+            "isLabelShow": true,
+            "hightlight": true,
+            "isOpen": false,
+            "isValueShow": true,
+            "align": "left",
+            "style": {}
+        },
+        {
+            "id": "10003",
+            "name": "author",
+            "label": "作者",
+            "orderNumber": 2,
+            "isLabelShow": true,
+            "hightlight": true,
+            "isOpen": false,
+            "isValueShow": true,
+            "align": "left",
+            "style": {}
+        },
+        {
+            "id": "10005",
+            "name": "date",
+            "label": "发表时间",
+            "orderNumber": 3,
+            "isLabelShow": true,
+            "hightlight": true,
+            "isOpen": false,
+            "isValueShow": true,
+            "align": "left",
+            "style": {}
+        },
+        {
+            "id": "10009",
+            "name": "url",
+            "label": "来源",
+            "orderNumber": 4,
+            "isLabelShow": true,
+            "hightlight": false,
+            "isOpen": true,
+            "isValueShow": false,
+            "align": "left",
+            "style": {}
+        },
+        {
+            "id": "10008",
+            "name": "category",
+            "label": "类型",
+            "orderNumber": 4,
+            "isLabelShow": true,
+            "hightlight": false,
+            "isOpen": false,
+            "isValueShow": true,
+            "align": "left",
+            "style": {}
+        }
+    ]
+}

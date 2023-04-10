@@ -1,0 +1,56 @@
+{
+  "data": {
+    "id": "1",
+    "type": "2",
+    "name": "首页轮播图",
+    "config": {
+      "autoplay": "4000",
+      "style": {
+        "padding": "0 5px",
+        "marginRight": "0"
+      }
+    },
+    "data": {
+      "CarouselItem": [
+        {
+          "resourceId": 366775090878091260,
+          "id": "115955",
+          "img": "http://64.64.248.231:9005/images/Demo (2).jpg",
+          "text": "Vietnamese smallholder livestock farms"
+        },
+        {
+          "resourceId": 366775090878091260,
+          "id": "115955",
+          "img": "http://64.64.248.231:9005/images/Demo (1).jpg",
+          "text": "residue management affects methane gas emissions from rice paddy fields on Vietnamese smallholder livestock farms"
+        },
+        {
+          "resourceId": 366776020126142460,
+          "id": "115955",
+          "img": "http://64.64.248.231:9005/images/Demo (3).jpg",
+          "text": "Manure, biogas digestate and crop residue management affects methane gas emissions from rice paddy fields on Vietnamese smallholder livestock farms"
+        },
+        {
+          "resourceId": "3",
+          "id": "115955",
+          "img": "http://64.64.248.231:9005/images/Demo (4).jpg",
+          "text": "Manure, biogas digestate and crop residue management affects methane gas emissions from rice paddy fields on Vietnamese smallholder livestock farms"
+        },
+        {
+          "resourceId": "5",
+          "id": "115955",
+          "img": "http://64.64.248.231:9005/images/Demo (5).jpg",
+          "text": "Manure, biogas digestate and crop residue management affects methane gas emissions from rice paddy fields on Vietnamese smallholder livestock farms",
+          "type": "paper"
+        },
+        {
+          "resourceId": "6",
+          "id": "115955",
+          "img": "http://64.64.248.231:9005/images/Demo (6).jpg",
+          "text": "Manure, biogas digestate and crop residue management affects methane gas emissions from rice paddy fields on Vietnamese smallholder livestock farms",
+          "type": "paper"
+        }
+      ]
+    }
+  }
+}
