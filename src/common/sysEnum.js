@@ -77,4 +77,5 @@ export default {
     .add(6, 'RadarChart', 6)
     .add(7, 'TableItem', 7)
     .add(8, 'WordCloud', 8)
+    .add(9,'MultiPart', 9)
 }

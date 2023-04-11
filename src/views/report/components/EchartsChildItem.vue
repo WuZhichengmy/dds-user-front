@@ -59,7 +59,8 @@ import {
   BarChart,
   BubbleChart,
   GraphChart,
-  TableItem
+  TableItem,
+  MultiPart
 } from '@/components/Echarts'
 
 import Information from './Information'
@@ -77,6 +78,7 @@ export default {
     BubbleChart,
     GraphChart,
     TableItem,
+    MultiPart,
     Information,
     Loading
   },
