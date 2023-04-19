@@ -1,5 +1,5 @@
 <template>
-  <div :style="{ height, width }">
+  <div :style="{ height:'600px', width }">
     <div class="inherit" />
   </div>
 </template>
@@ -154,6 +154,9 @@ export default {
           },
         },
         series: {
+          categories: {},
+          data: {},
+          links: {},
           type: 'graph',
           layout: 'force',
           focusNodeAdjacency: true,
@@ -163,6 +166,8 @@ export default {
           lineStyle: {
             width: 1,
             color: '#dedede',
+            opacity: 0.9,
+            curveness: 0.3,
           },
           zoom: 1,
           legendHoverLink: true,
@@ -173,7 +178,7 @@ export default {
               position: 'top',
             },
           },
-          edgeSymbolSize: 12,
+          edgeSymbolSize: [4, 12],
           edgeLabel: {
             normal: {
               textStyle: {
@@ -212,12 +217,6 @@ export default {
               },
             },
           },
-          lineStyle: {
-            normal: {
-              opacity: 0.9,
-              curveness: 0.3,
-            },
-          },
         },
       },
       media: [
@@ -242,16 +241,16 @@ export default {
       data.title = {
         text,
       }
+      console.log(data)
       this.initChart(data)
     },
-    // initChart() {
+    // initChart(data) {
     //   this.chart = echarts.init(this.$el, 'macarons', {
     //     renderer: 'canvas',
     //   })
-    //   let categories = ['关键词']
     //   this.chart.setOption({
     //     title: {
-    //       // text: '一个关联分析结果'
+    //       text: data.title
     //     },
     //     tooltip: {
     //       show: true,
@@ -265,13 +264,7 @@ export default {
     //             params.data.value
     //           )
     //         } else {
-    //           if (
-    //             _this.query.searchType === 'SCHOLARS_COOPERATION_NETWORK_ATLAS'
-    //           ) {
-    //             return params.marker + params.name
-    //           } else {
     //             return params.marker + params.name + ': ' + params.value
-    //           }
     //         }
     //       },
     //     },
@@ -286,9 +279,9 @@ export default {
     //         left: 'center',
     //         // nodeScaleRatio: 0.8,
     //         draggable: true, //指示节点是否可以拖动
-    //         categories,
-    //         data,
-    //         links,
+    //         categories: data.categories,
+    //         data: data.data,
+    //         links: data.links,
     //         // zoom: zoom,
     //         legendHoverLink: true,
     //         hoverAnimation: true,
@@ -319,8 +312,12 @@ export default {
     //         },
     //         itemStyle: {
     //           normal: {
+    //             lineStyle: {
+    //               opacity: 0.9,
+    //               curveness: 0.3,
+    //               color: 'source',
+    //             },
     //             borderColor: '#fff',
-    //             borderWidth: 1,
     //             // shadowBlur: 10,
     //             color: function (params) {
     //               // if (Vue.ls.get('echartsTheme') === 'blue') {
@@ -373,12 +370,6 @@ export default {
     //             },
     //           },
     //         },
-    //         lineStyle: {
-    //           normal: {
-    //             opacity: 0.9,
-    //             curveness: 0.3,
-    //           },
-    //         },
     //       },
     //     ],
     //   })
@@ -388,12 +379,12 @@ export default {
 </script>
 
 <style scoped>
-.border {
-  border: 1px solid #e8eaec;
-}
-.noBorder {
-  border: 0 !important;
-}
+/*.border {*/
+/*  border: 1px solid #e8eaec;*/
+/*}*/
+/*.noBorder {*/
+/*  border: 0 !important;*/
+/*}*/
 
 .notice {
   text-align: left;

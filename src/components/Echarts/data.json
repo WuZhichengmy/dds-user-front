@@ -1,1021 +1,695 @@
-[{
-    "name": "Torben Hansen(25)",
-    "value": 25,
-    "category": 1,
-    "symbolSize": 15
-}, {
-    "name": "Oluf Pedersen(20)",
-    "value": 20,
-    "category": 1,
-    "symbolSize": 13.416407864998739
-}, {
-    "name": "Giuseppina Imperatore(29)",
-    "value": 29,
-    "category": 1,
-    "symbolSize": 16.15549442140351
-}, {
-    "name": "Dana Dabelea(38)",
-    "value": 38,
-    "category": 1,
-    "symbolSize": 18.49324200890693
-}, {
-    "name": "杨跃进(24)",
-    "value": 24,
-    "category": 1,
-    "symbolSize": 14.696938456699067
-}, {
-    "name": "吴永健(23)",
-    "value": 23,
-    "category": 1,
-    "symbolSize": 14.387494569938157
-}, {
-    "name": "Catherine Pihoker(16)",
-    "value": 16,
-    "category": 1,
-    "symbolSize": 12
-}, {
-    "name": "陈关良(14)",
-    "value": 14,
-    "category": 1,
-    "symbolSize": 11.224972160321824
-}, {
-    "name": "李斌(24)",
-    "value": 24,
-    "category": 1,
-    "symbolSize": 14.696938456699067
-}, {
-    "name": "王薇(26)",
-    "value": 26,
-    "category": 1,
-    "symbolSize": 15.297058540778353
-}, {
-    "name": "赵冬(20)",
-    "value": 20,
-    "category": 1,
-    "symbolSize": 13.416407864998739
-}, {
-    "name": "潘长玉(34)",
-    "value": 34,
-    "category": 1,
-    "symbolSize": 17.492855684535904
-}, {
-    "name": "陆菊明(30)",
-    "value": 30,
-    "category": 1,
-    "symbolSize": 16.431676725154983
-}, {
-    "name": "Per-Henrik Groop(18)",
-    "value": 18,
-    "category": 1,
-    "symbolSize": 12.727922061357855
-}, {
-    "name": "Carol Forsblom(14)",
-    "value": 14,
-    "category": 1,
-    "symbolSize": 11.224972160321824
-}, {
-    "name": "苏哲坦(16)",
-    "value": 16,
-    "category": 1,
-    "symbolSize": 12
-}, {
-    "name": "高润霖(14)",
-    "value": 14,
-    "category": 1,
-    "symbolSize": 11.224972160321824
-}, {
-    "name": "李新明(14)",
-    "value": 14,
-    "category": 1,
-    "symbolSize": 11.224972160321824
-}, {
-    "name": "Torben Jørgensen(14)",
-    "value": 14,
-    "category": 1,
-    "symbolSize": 11.224972160321824
-}, {
-    "name": "宋光远(14)",
-    "value": 14,
-    "category": 1,
-    "symbolSize": 11.224972160321824
-}, {
-    "name": "马建林(14)",
-    "value": 14,
-    "category": 1,
-    "symbolSize": 11.224972160321824
-}, {
-    "name": "田慧(19)",
-    "value": 19,
-    "category": 1,
-    "symbolSize": 13.076696830622023
-}, {
-    "name": "Ranjit Mohan Anjana(12)",
-    "value": 12,
-    "category": 1,
-    "symbolSize": 10.392304845413264
-}, {
-    "name": "Viswanathan Mohan(27)",
-    "value": 27,
-    "category": 1,
-    "symbolSize": 15.588457268119896
-}, {
-    "name": "Elizabeth J Mayer-Davis(16)",
-    "value": 16,
-    "category": 1,
-    "symbolSize": 12
-}, {
-    "name": "乔树宾(17)",
-    "value": 17,
-    "category": 1,
-    "symbolSize": 12.36931687685298
-}, {
-    "name": "Katherine Esposito(14)",
-    "value": 14,
-    "category": 1,
-    "symbolSize": 11.224972160321824
-}, {
-    "name": "Dario Giugliano(12)",
-    "value": 12,
-    "category": 1,
-    "symbolSize": 10.392304845413264
-}, {
-    "name": "Jay S. Skyler(19)",
-    "value": 19,
-    "category": 1,
-    "symbolSize": 13.076696830622023
-}, {
-    "name": "Jay M. Sosenko(12)",
-    "value": 12,
-    "category": 1,
-    "symbolSize": 10.392304845413264
-}, {
-    "name": "宫剑滨(12)",
-    "value": 12,
-    "category": 1,
-    "symbolSize": 10.392304845413264
-}, {
-    "name": "江时森(17)",
-    "value": 17,
-    "category": 1,
-    "symbolSize": 12.36931687685298
-}, {
-    "name": "王玉珍(12)",
-    "value": 12,
-    "category": 1,
-    "symbolSize": 10.392304845413264
-}, {
-    "name": "许樟荣(26)",
-    "value": 26,
-    "category": 1,
-    "symbolSize": 15.297058540778353
-}, {
-    "name": "康毅(11)",
-    "value": 11,
-    "category": 1,
-    "symbolSize": 9.9498743710662
-}, {
-    "name": "娄建石(11)",
-    "value": 11,
-    "category": 1,
-    "symbolSize": 9.9498743710662
-}, {
-    "name": "Jorma Ilonen(15)",
-    "value": 15,
-    "category": 1,
-    "symbolSize": 11.618950038622252
-}, {
-    "name": "Mikael Knip(18)",
-    "value": 18,
-    "category": 1,
-    "symbolSize": 12.727922061357855
-}, {
-    "name": "荆全民(11)",
-    "value": 11,
-    "category": 1,
-    "symbolSize": 9.9498743710662
-}, {
-    "name": "韩雅玲(15)",
-    "value": 15,
-    "category": 1,
-    "symbolSize": 11.618950038622252
-}, {
-    "name": "孙佳艺(11)",
-    "value": 11,
-    "category": 1,
-    "symbolSize": 9.9498743710662
-}, {
-    "name": "王青(23)",
-    "value": 23,
-    "category": 1,
-    "symbolSize": 14.387494569938157
-}, {
-    "name": "王天松(11)",
-    "value": 11,
-    "category": 1,
-    "symbolSize": 9.9498743710662
-}, {
-    "name": "Rajendra Pradeepa(11)",
-    "value": 11,
-    "category": 1,
-    "symbolSize": 9.9498743710662
-}, {
-    "name": "陈纪林(12)",
-    "value": 12,
-    "category": 1,
-    "symbolSize": 10.392304845413264
-}, {
-    "name": "刘军(24)",
-    "value": 24,
-    "category": 1,
-    "symbolSize": 14.696938456699067
-}, {
-    "name": "Sian Ellard(31)",
-    "value": 31,
-    "category": 1,
-    "symbolSize": 16.703293088490064
-}, {
-    "name": "Sarah E Flanagan(12)",
-    "value": 12,
-    "category": 1,
-    "symbolSize": 10.392304845413264
-}, {
-    "name": "Daniela Elleri(11)",
-    "value": 11,
-    "category": 1,
-    "symbolSize": 9.9498743710662
-}, {
-    "name": "Roman Hovorka(17)",
-    "value": 17,
-    "category": 1,
-    "symbolSize": 12.36931687685298
-}, {
-    "name": "Mitsuhiko Noda(23)",
-    "value": 23,
-    "category": 1,
-    "symbolSize": 14.387494569938157
-}, {
-    "name": "Shoichiro Tsugane(15)",
-    "value": 15,
-    "category": 1,
-    "symbolSize": 11.618950038622252
-}, {
-    "name": "范瑞明(11)",
-    "value": 11,
-    "category": 1,
-    "symbolSize": 9.9498743710662
-}, {
-    "name": "余昌胤(11)",
-    "value": 11,
-    "category": 1,
-    "symbolSize": 9.9498743710662
-}, {
-    "name": "徐波(11)",
-    "value": 11,
-    "category": 1,
-    "symbolSize": 9.9498743710662
-}, {
-    "name": "Kamlesh Khunti(27)",
-    "value": 27,
-    "category": 1,
-    "symbolSize": 15.588457268119896
-}, {
-    "name": "Melanie J. Davies(10)",
-    "value": 10,
-    "category": 1,
-    "symbolSize": 9.486832980505138
-}, {
-    "name": "裴汉军(11)",
-    "value": 11,
-    "category": 1,
-    "symbolSize": 9.9498743710662
-}, {
-    "name": "Jeffrey P. Krischer(12)",
-    "value": 12,
-    "category": 1,
-    "symbolSize": 10.392304845413264
-}, {
-    "name": "Linong Ji(22)",
-    "value": 22,
-    "category": 1,
-    "symbolSize": 14.071247279470288
-}, {
-    "name": "Xiaohui Guo(13)",
-    "value": 13,
-    "category": 1,
-    "symbolSize": 10.816653826391967
-}, {
-    "name": "Olli Simell(14)",
-    "value": 14,
-    "category": 1,
-    "symbolSize": 11.224972160321824
-}, {
-    "name": "Atsushi Goto(11)",
-    "value": 11,
-    "category": 1,
-    "symbolSize": 9.9498743710662
-}, {
-    "name": "焦建杰(10)",
-    "value": 10,
-    "category": 1,
-    "symbolSize": 9.486832980505138
-}, {
-    "name": "包玉倩(14)",
-    "value": 14,
-    "category": 1,
-    "symbolSize": 11.224972160321824
-}, {
-    "name": "贾伟平(31)",
-    "value": 31,
-    "category": 1,
-    "symbolSize": 16.703293088490064
-}, {
-    "name": "Tetsuya Mizoue(15)",
-    "value": 15,
-    "category": 1,
-    "symbolSize": 11.618950038622252
-}, {
-    "name": "Yufang Bi(10)",
-    "value": 10,
-    "category": 1,
-    "symbolSize": 9.486832980505138
-}, {
-    "name": "Guang Ning(20)",
-    "value": 20,
-    "category": 1,
-    "symbolSize": 13.416407864998739
-}, {
-    "name": "Annelli Sandbæk(10)",
-    "value": 10,
-    "category": 1,
-    "symbolSize": 9.486832980505138
-}, {
-    "name": "Torsten Lauritzen(15)",
-    "value": 15,
-    "category": 1,
-    "symbolSize": 11.618950038622252
-}, {
-    "name": "杨慧霞(54)",
-    "value": 54,
-    "category": 1,
-    "symbolSize": 22.045407685048602
-}, {
-    "name": "孙伟杰(10)",
-    "value": 10,
-    "category": 1,
-    "symbolSize": 9.486832980505138
-}, {
-    "name": "Fereidoun Azizi(14)",
-    "value": 14,
-    "category": 1,
-    "symbolSize": 11.224972160321824
-}, {
-    "name": "Farzad Hadaegh(11)",
-    "value": 11,
-    "category": 1,
-    "symbolSize": 9.9498743710662
-}, {
-    "name": "王守力(10)",
-    "value": 10,
-    "category": 1,
-    "symbolSize": 9.486832980505138
-}, {
-    "name": "Manami Inoue(10)",
-    "value": 10,
-    "category": 1,
-    "symbolSize": 9.486832980505138
-}, {
-    "name": "Peter Rossing(12)",
-    "value": 12,
-    "category": 1,
-    "symbolSize": 10.392304845413264
-}, {
-    "name": "Hans-Henrik Parving(12)",
-    "value": 12,
-    "category": 1,
-    "symbolSize": 10.392304845413264
-}, {
-    "name": "Akiko Nanri(10)",
-    "value": 10,
-    "category": 1,
-    "symbolSize": 9.486832980505138
-}, {
-    "name": "胡大一(53)",
-    "value": 53,
-    "category": 1,
-    "symbolSize": 21.840329667841555
-}, {
-    "name": "李觉(11)",
-    "value": 11,
-    "category": 1,
-    "symbolSize": 9.9498743710662
-}, {
-    "name": "Lawrence Dolan(12)",
-    "value": 12,
-    "category": 1,
-    "symbolSize": 10.392304845413264
-}, {
-    "name": "Hirotaka Watada(11)",
-    "value": 11,
-    "category": 1,
-    "symbolSize": 9.9498743710662
-}, {
-    "name": "Ryuzo Kawamori(11)",
-    "value": 11,
-    "category": 1,
-    "symbolSize": 9.9498743710662
-}, {
-    "name": "Marianna Virtanen(10)",
-    "value": 10,
-    "category": 1,
-    "symbolSize": 9.486832980505138
-}, {
-    "name": "Mika Kivimäki(18)",
-    "value": 18,
-    "category": 1,
-    "symbolSize": 12.727922061357855
-}, {
-    "name": "张启高(9)",
-    "value": 9,
-    "category": 1,
-    "symbolSize": 9
-}, {
-    "name": "王立军(10)",
-    "value": 10,
-    "category": 1,
-    "symbolSize": 9.486832980505138
-}, {
-    "name": "黄雪茹(9)",
-    "value": 9,
-    "category": 1,
-    "symbolSize": 9
-}, {
-    "name": "魏玉梅(10)",
-    "value": 10,
-    "category": 1,
-    "symbolSize": 9.486832980505138
-}, {
-    "name": "Mohan Deepa(9)",
-    "value": 9,
-    "category": 1,
-    "symbolSize": 9
-}, {
-    "name": "Jerry P. Palmer(12)",
-    "value": 12,
-    "category": 1,
-    "symbolSize": 10.392304845413264
-}, {
-    "name": "刘海波(12)",
-    "value": 12,
-    "category": 1,
-    "symbolSize": 10.392304845413264
-}, {
-    "name": "Elizabeth J. Mayer-Davis(14)",
-    "value": 14,
-    "category": 1,
-    "symbolSize": 11.224972160321824
-}, {
-    "name": "Giuseppe Bellastella(9)",
-    "value": 9,
-    "category": 1,
-    "symbolSize": 9
-}, {
-    "name": "刘艳霞(9)",
-    "value": 9,
-    "category": 1,
-    "symbolSize": 9
-}, {
-    "name": "刘静(21)",
-    "value": 21,
-    "category": 1,
-    "symbolSize": 13.74772708486752
-}, {
-    "name": "Rodrigo Jiménez-García(12)",
-    "value": 12,
-    "category": 1,
-    "symbolSize": 10.392304845413264
-}, {
-    "name": "Pilar Carrasco-Garrido(10)",
-    "value": 10,
-    "category": 1,
-    "symbolSize": 9.486832980505138
-}, {
-    "name": "Marianna Nodale(9)",
-    "value": 9,
-    "category": 1,
-    "symbolSize": 9
-}, {
-    "name": "王圣(10)",
-    "value": 10,
-    "category": 1,
-    "symbolSize": 9.486832980505138
-}, {
-    "name": "Santica Marcovina(14)",
-    "value": 14,
-    "category": 1,
-    "symbolSize": 11.224972160321824
-}, {
-    "name": "彭永平(9)",
-    "value": 9,
-    "category": 1,
-    "symbolSize": 9
-}, {
-    "name": "Andrew T Hattersley(18)",
-    "value": 18,
-    "category": 1,
-    "symbolSize": 12.727922061357855
-}, {
-    "name": "程训民(10)",
-    "value": 10,
-    "category": 1,
-    "symbolSize": 9.486832980505138
-}, {
-    "name": "Maria Ida Maiorino(9)",
-    "value": 9,
-    "category": 1,
-    "symbolSize": 9
-}, {
-    "name": "吴艳娜(9)",
-    "value": 9,
-    "category": 1,
-    "symbolSize": 9
-}, {
-    "name": "陈小燕(12)",
-    "value": 12,
-    "category": 1,
-    "symbolSize": 10.392304845413264
-}, {
-    "name": "周智广(19)",
-    "value": 19,
-    "category": 1,
-    "symbolSize": 13.076696830622023
-}, {
-    "name": "Haoming Tian(10)",
-    "value": 10,
-    "category": 1,
-    "symbolSize": 9.486832980505138
-}, {
-    "name": "Archana Singh-Manoux(11)",
-    "value": 11,
-    "category": 1,
-    "symbolSize": 9.9498743710662
-}, {
-    "name": "Riitta Veijola(9)",
-    "value": 9,
-    "category": 1,
-    "symbolSize": 9
-}, {
-    "name": "杜昕(12)",
-    "value": 12,
-    "category": 1,
-    "symbolSize": 10.392304845413264
-}, {
-    "name": "马长生(14)",
-    "value": 14,
-    "category": 1,
-    "symbolSize": 11.224972160321824
-}, {
-    "name": "David Cuthbertson(11)",
-    "value": 11,
-    "category": 1,
-    "symbolSize": 9.9498743710662
-}, {
-    "name": "余金明(11)",
-    "value": 11,
-    "category": 1,
-    "symbolSize": 9.9498743710662
-}, {
-    "name": "Craig Kollman(15)",
-    "value": 15,
-    "category": 1,
-    "symbolSize": 11.618950038622252
-}, {
-    "name": "Peiyao Cheng(11)",
-    "value": 11,
-    "category": 1,
-    "symbolSize": 9.9498743710662
-}, {
-    "name": "Jean M. Lawrence(10)",
-    "value": 10,
-    "category": 1,
-    "symbolSize": 9.486832980505138
-}, {
-    "name": "Jaana Pentti(8)",
-    "value": 8,
-    "category": 1,
-    "symbolSize": 8.485281374238571
-}, {
-    "name": "张树球(11)",
-    "value": 11,
-    "category": 1,
-    "symbolSize": 9.9498743710662
-}, {
-    "name": "何胜(8)",
-    "value": 8,
-    "category": 1,
-    "symbolSize": 8.485281374238571
-}, {
-    "name": "Yuqian Bao(8)",
-    "value": 8,
-    "category": 1,
-    "symbolSize": 8.485281374238571
-}, {
-    "name": "Weiping Jia(21)",
-    "value": 21,
-    "category": 1,
-    "symbolSize": 13.74772708486752
-}, {
-    "name": "朱俊(12)",
-    "value": 12,
-    "category": 1,
-    "symbolSize": 10.392304845413264
-}, {
-    "name": "杨艳敏(9)",
-    "value": 9,
-    "category": 1,
-    "symbolSize": 9
-}, {
-    "name": "马颖艳(8)",
-    "value": 8,
-    "category": 1,
-    "symbolSize": 8.485281374238571
-}, {
-    "name": "冀秋娣(8)",
-    "value": 8,
-    "category": 1,
-    "symbolSize": 8.485281374238571
-}, {
-    "name": "李淑英(9)",
-    "value": 9,
-    "category": 1,
-    "symbolSize": 9
-}, {
-    "name": "Barbara Linder(13)",
-    "value": 13,
-    "category": 1,
-    "symbolSize": 10.816653826391967
-}, {
-    "name": "N J Wareham(8)",
-    "value": 8,
-    "category": 1,
-    "symbolSize": 8.485281374238571
-}, {
-    "name": "S J Griffin(9)",
-    "value": 9,
-    "category": 1,
-    "symbolSize": 9
-}, {
-    "name": "Philippe Froguel(19)",
-    "value": 19,
-    "category": 1,
-    "symbolSize": 13.076696830622023
-}, {
-    "name": "Guillaume Charpentier(11)",
-    "value": 11,
-    "category": 1,
-    "symbolSize": 9.9498743710662
-}, {
-    "name": "Zhiguang Zhou(12)",
-    "value": 12,
-    "category": 1,
-    "symbolSize": 10.392304845413264
-}, {
-    "name": "钟文菲(8)",
-    "value": 8,
-    "category": 1,
-    "symbolSize": 8.485281374238571
-}, {
-    "name": "Nikhil Tandon(14)",
-    "value": 14,
-    "category": 1,
-    "symbolSize": 11.224972160321824
-}, {
-    "name": "Rubina Tabassum(9)",
-    "value": 9,
-    "category": 1,
-    "symbolSize": 9
-}, {
-    "name": "姚民(9)",
-    "value": 9,
-    "category": 1,
-    "symbolSize": 9
-}, {
-    "name": "Dwaipayan Bharadwaj(8)",
-    "value": 8,
-    "category": 1,
-    "symbolSize": 8.485281374238571
-}, {
-    "name": "Kavita Kumareswaran(8)",
-    "value": 8,
-    "category": 1,
-    "symbolSize": 8.485281374238571
-}, {
-    "name": "Shiro Maeda(10)",
-    "value": 10,
-    "category": 1,
-    "symbolSize": 9.486832980505138
-}, {
-    "name": "Weiqing Wang(8)",
-    "value": 8,
-    "category": 1,
-    "symbolSize": 8.485281374238571
-}, {
-    "name": "杨丽(15)",
-    "value": 15,
-    "category": 1,
-    "symbolSize": 11.618950038622252
-}, {
-    "name": "Karen Caldwell(8)",
-    "value": 8,
-    "category": 1,
-    "symbolSize": 8.485281374238571
-}, {
-    "name": "Jussi Vahtera(8)",
-    "value": 8,
-    "category": 1,
-    "symbolSize": 8.485281374238571
-}, {
-    "name": "陈珏(10)",
-    "value": 10,
-    "category": 1,
-    "symbolSize": 9.486832980505138
-}, {
-    "name": "刘德辉(10)",
-    "value": 10,
-    "category": 1,
-    "symbolSize": 9.486832980505138
-}, {
-    "name": "朱西娥(10)",
-    "value": 10,
-    "category": 1,
-    "symbolSize": 9.486832980505138
-}, {
-    "name": "Ronan Roussel(9)",
-    "value": 9,
-    "category": 1,
-    "symbolSize": 9
-}, {
-    "name": "Michel Marre(19)",
-    "value": 19,
-    "category": 1,
-    "symbolSize": 13.076696830622023
-}, {
-    "name": "Melanie J Davies(9)",
-    "value": 9,
-    "category": 1,
-    "symbolSize": 9
-}, {
-    "name": "马瑞(8)",
-    "value": 8,
-    "category": 1,
-    "symbolSize": 8.485281374238571
-}, {
-    "name": "Yu Xu(8)",
-    "value": 8,
-    "category": 1,
-    "symbolSize": 8.485281374238571
-}, {
-    "name": "秦学文(8)",
-    "value": 8,
-    "category": 1,
-    "symbolSize": 8.485281374238571
-}, {
-    "name": "Xu Lin(8)",
-    "value": 8,
-    "category": 1,
-    "symbolSize": 8.485281374238571
-}, {
-    "name": "Huaixing Li(8)",
-    "value": 8,
-    "category": 1,
-    "symbolSize": 8.485281374238571
-}, {
-    "name": "Gillian Hawthorne(9)",
-    "value": 9,
-    "category": 1,
-    "symbolSize": 9
-}, {
-    "name": "Nick Steen(9)",
-    "value": 9,
-    "category": 1,
-    "symbolSize": 9
-}, {
-    "name": "Martine Vaxillaire(8)",
-    "value": 8,
-    "category": 1,
-    "symbolSize": 8.485281374238571
-}, {
-    "name": "康俊萍(8)",
-    "value": 8,
-    "category": 1,
-    "symbolSize": 8.485281374238571
-}, {
-    "name": "Angelo Avogaro(15)",
-    "value": 15,
-    "category": 1,
-    "symbolSize": 11.618950038622252
-}, {
-    "name": "Gian Paolo Fadini(8)",
-    "value": 8,
-    "category": 1,
-    "symbolSize": 8.485281374238571
-}, {
-    "name": "Guy Fagherazzi(8)",
-    "value": 8,
-    "category": 1,
-    "symbolSize": 8.485281374238571
-}, {
-    "name": "Françoise Clavel-Chapelon(8)",
-    "value": 8,
-    "category": 1,
-    "symbolSize": 8.485281374238571
-}, {
-    "name": "Flemming Pociot(15)",
-    "value": 15,
-    "category": 1,
-    "symbolSize": 11.618950038622252
-}, {
-    "name": "Jørn Nerup(8)",
-    "value": 8,
-    "category": 1,
-    "symbolSize": 8.485281374238571
-}, {
-    "name": "Atsunori Kashiwagi(10)",
-    "value": 10,
-    "category": 1,
-    "symbolSize": 9.486832980505138
-}, {
-    "name": "Hiroshi Maegawa(10)",
-    "value": 10,
-    "category": 1,
-    "symbolSize": 9.486832980505138
-}, {
-    "name": "Wenying Yang(13)",
-    "value": 13,
-    "category": 1,
-    "symbolSize": 10.816653826391967
-}, {
-    "name": "Frank B Hu(34)",
-    "value": 34,
-    "category": 1,
-    "symbolSize": 17.492855684535904
-}, {
-    "name": "Qi Sun(17)",
-    "value": 17,
-    "category": 1,
-    "symbolSize": 12.36931687685298
-}, {
-    "name": "An Pan(14)",
-    "value": 14,
-    "category": 1,
-    "symbolSize": 11.224972160321824
-}, {
-    "name": "Martin P Eccles(11)",
-    "value": 11,
-    "category": 1,
-    "symbolSize": 9.9498743710662
-}, {
-    "name": "Jeremy M Grimshaw(8)",
-    "value": 8,
-    "category": 1,
-    "symbolSize": 8.485281374238571
-}, {
-    "name": "王淼(8)",
-    "value": 8,
-    "category": 1,
-    "symbolSize": 8.485281374238571
-}, {
-    "name": "熊燕(12)",
-    "value": 12,
-    "category": 1,
-    "symbolSize": 10.392304845413264
-}, {
-    "name": "赖晓阳(11)",
-    "value": 11,
-    "category": 1,
-    "symbolSize": 9.9498743710662
-}, {
-    "name": "宋耀虹(8)",
-    "value": 8,
-    "category": 1,
-    "symbolSize": 8.485281374238571
-}, {
-    "name": "鄢盛恺(10)",
-    "value": 10,
-    "category": 1,
-    "symbolSize": 9.486832980505138
-}, {
-    "name": "Jan Sundquist(10)",
-    "value": 10,
-    "category": 1,
-    "symbolSize": 9.486832980505138
-}, {
-    "name": "Kristina Sundquist(8)",
-    "value": 8,
-    "category": 1,
-    "symbolSize": 8.485281374238571
-}, {
-    "name": "Nicholas J Wareham(15)",
-    "value": 15,
-    "category": 1,
-    "symbolSize": 11.618950038622252
-}, {
-    "name": "Simon J Griffin(12)",
-    "value": 12,
-    "category": 1,
-    "symbolSize": 10.392304845413264
-}, {
-    "name": "Jacqueline M Dekker(10)",
-    "value": 10,
-    "category": 1,
-    "symbolSize": 9.486832980505138
-}, {
-    "name": "Giel Nijpels(20)",
-    "value": 20,
-    "category": 1,
-    "symbolSize": 13.416407864998739
-}, {
-    "name": "Kayo Kurotani(8)",
-    "value": 8,
-    "category": 1,
-    "symbolSize": 8.485281374238571
-}, {
-    "name": "Ranjit Unnikrishnan(8)",
-    "value": 8,
-    "category": 1,
-    "symbolSize": 8.485281374238571
-}, {
-    "name": "Kohei Kaku(11)",
-    "value": 11,
-    "category": 1,
-    "symbolSize": 9.9498743710662
-}, {
-    "name": "Jean M Lawrence(11)",
-    "value": 11,
-    "category": 1,
-    "symbolSize": 9.9498743710662
-}, {
-    "name": "Rob M van Dam(11)",
-    "value": 11,
-    "category": 1,
-    "symbolSize": 9.9498743710662
-}, {
-    "name": "Marie Berg(8)",
-    "value": 8,
-    "category": 1,
-    "symbolSize": 8.485281374238571
-}, {
-    "name": "Carina Sparud-Lundin(9)",
-    "value": 9,
-    "category": 1,
-    "symbolSize": 9
-}, {
-    "name": "吕强(10)",
-    "value": 10,
-    "category": 1,
-    "symbolSize": 9.486832980505138
-}, {
-    "name": "聂绍平(8)",
-    "value": 8,
-    "category": 1,
-    "symbolSize": 8.485281374238571
-}, {
-    "name": "David M. Maahs(11)",
-    "value": 11,
-    "category": 1,
-    "symbolSize": 9.9498743710662
-}, {
-    "name": "Janet K. Snell-Bergeon(9)",
-    "value": 9,
-    "category": 1,
-    "symbolSize": 9
-}, {
-    "name": "李强(29)",
-    "value": 29,
-    "category": 1,
-    "symbolSize": 16.15549442140351
-}, {
-    "name": "张巾超(10)",
-    "value": 10,
-    "category": 1,
-    "symbolSize": 9.486832980505138
-}, {
-    "name": "Hermann Brenner(8)",
-    "value": 8,
-    "category": 1,
-    "symbolSize": 8.485281374238571
-}, {
-    "name": "Dietrich Rothenbacher(7)",
-    "value": 7,
-    "category": 1,
-    "symbolSize": 7.937253933193772
-}, {
-    "name": "林善锬(10)",
-    "value": 10,
-    "category": 1,
-    "symbolSize": 9.486832980505138
-}, {
-    "name": "顾勇(8)",
-    "value": 8,
-    "category": 1,
-    "symbolSize": 8.485281374238571
-}]
+[
+    {
+        "id": "0",
+        "name": "Myriel",
+        "symbolSize": 19.12381,
+        "x": -266.82776,
+        "y": 299.6904,
+        "value": 28.685715,
+        "category": 0
+    },
+    {
+        "id": "1",
+        "name": "Napoleon",
+        "symbolSize": 2.6666666666666665,
+        "x": -418.08344,
+        "y": 446.8853,
+        "value": 4,
+        "category": 0
+    },
+    {
+        "id": "2",
+        "name": "MlleBaptistine",
+        "symbolSize": 6.323809333333333,
+        "x": -212.76357,
+        "y": 245.29176,
+        "value": 9.485714,
+        "category": 1
+    },
+    {
+        "id": "3",
+        "name": "MmeMagloire",
+        "symbolSize": 6.323809333333333,
+        "x": -242.82404,
+        "y": 235.26283,
+        "value": 9.485714,
+        "category": 1
+    },
+    {
+        "id": "4",
+        "name": "CountessDeLo",
+        "symbolSize": 2.6666666666666665,
+        "x": -379.30386,
+        "y": 429.06424,
+        "value": 4,
+        "category": 0
+    },
+    {
+        "id": "5",
+        "name": "Geborand",
+        "symbolSize": 2.6666666666666665,
+        "x": -417.26337,
+        "y": 406.03506,
+        "value": 4,
+        "category": 0
+    },
+    {
+        "id": "6",
+        "name": "Champtercier",
+        "symbolSize": 2.6666666666666665,
+        "x": -332.6012,
+        "y": 485.16974,
+        "value": 4,
+        "category": 0
+    },
+    {
+        "id": "7",
+        "name": "Cravatte",
+        "symbolSize": 2.6666666666666665,
+        "x": -382.69568,
+        "y": 475.09113,
+        "value": 4,
+        "category": 0
+    },
+    {
+        "id": "8",
+        "name": "Count",
+        "symbolSize": 2.6666666666666665,
+        "x": -320.384,
+        "y": 387.17325,
+        "value": 4,
+        "category": 0
+    },
+    {
+        "id": "9",
+        "name": "OldMan",
+        "symbolSize": 2.6666666666666665,
+        "x": -344.39832,
+        "y": 451.16772,
+        "value": 4,
+        "category": 0
+    },
+    {
+        "id": "10",
+        "name": "Labarre",
+        "symbolSize": 2.6666666666666665,
+        "x": -89.34107,
+        "y": 234.56128,
+        "value": 4,
+        "category": 1
+    },
+    {
+        "id": "11",
+        "name": "Valjean",
+        "symbolSize": 66.66666666666667,
+        "x": -87.93029,
+        "y": -6.8120565,
+        "value": 100,
+        "category": 1
+    },
+    {
+        "id": "12",
+        "name": "Marguerite",
+        "symbolSize": 4.495239333333333,
+        "x": -339.77908,
+        "y": -184.69139,
+        "value": 6.742859,
+        "category": 1
+    },
+    {
+        "id": "13",
+        "name": "MmeDeR",
+        "symbolSize": 2.6666666666666665,
+        "x": -194.31313,
+        "y": 178.55301,
+        "value": 4,
+        "category": 1
+    },
+    {
+        "id": "14",
+        "name": "Isabeau",
+        "symbolSize": 2.6666666666666665,
+        "x": -158.05168,
+        "y": 201.99768,
+        "value": 4,
+        "category": 1
+    },
+    {
+        "id": "15",
+        "name": "Gervais",
+        "symbolSize": 2.6666666666666665,
+        "x": -127.701546,
+        "y": 242.55057,
+        "value": 4,
+        "category": 1
+    },
+    {
+        "id": "16",
+        "name": "Tholomyes",
+        "symbolSize": 17.295237333333333,
+        "x": -385.2226,
+        "y": -393.5572,
+        "value": 25.942856,
+        "category": 2
+    },
+    {
+        "id": "17",
+        "name": "Listolier",
+        "symbolSize": 13.638097333333334,
+        "x": -516.55884,
+        "y": -393.98975,
+        "value": 20.457146,
+        "category": 2
+    },
+    {
+        "id": "18",
+        "name": "Fameuil",
+        "symbolSize": 13.638097333333334,
+        "x": -464.79382,
+        "y": -493.57944,
+        "value": 20.457146,
+        "category": 2
+    },
+    {
+        "id": "19",
+        "name": "Blacheville",
+        "symbolSize": 13.638097333333334,
+        "x": -515.1624,
+        "y": -456.9891,
+        "value": 20.457146,
+        "category": 2
+    },
+    {
+        "id": "20",
+        "name": "Favourite",
+        "symbolSize": 13.638097333333334,
+        "x": -408.12122,
+        "y": -464.5048,
+        "value": 20.457146,
+        "category": 2
+    },
+    {
+        "id": "21",
+        "name": "Dahlia",
+        "symbolSize": 13.638097333333334,
+        "x": -456.44113,
+        "y": -425.13303,
+        "value": 20.457146,
+        "category": 2
+    },
+    {
+        "id": "22",
+        "name": "Zephine",
+        "symbolSize": 13.638097333333334,
+        "x": -459.1107,
+        "y": -362.5133,
+        "value": 20.457146,
+        "category": 2
+    },
+    {
+        "id": "23",
+        "name": "Fantine",
+        "symbolSize": 28.266666666666666,
+        "x": -313.42786,
+        "y": -289.44803,
+        "value": 42.4,
+        "category": 2
+    },
+    {
+        "id": "24",
+        "name": "MmeThenardier",
+        "symbolSize": 20.95238266666667,
+        "x": 4.6313396,
+        "y": -273.8517,
+        "value": 31.428574,
+        "category": 7
+    },
+    {
+        "id": "25",
+        "name": "Thenardier",
+        "symbolSize": 30.095235333333335,
+        "x": 82.80825,
+        "y": -203.1144,
+        "value": 45.142853,
+        "category": 7
+    },
+    {
+        "id": "26",
+        "name": "Cosette",
+        "symbolSize": 20.95238266666667,
+        "x": 78.64646,
+        "y": -31.512747,
+        "value": 31.428574,
+        "category": 6
+    },
+    {
+        "id": "27",
+        "name": "Javert",
+        "symbolSize": 31.923806666666668,
+        "x": -81.46074,
+        "y": -204.20204,
+        "value": 47.88571,
+        "category": 7
+    },
+    {
+        "id": "28",
+        "name": "Fauchelevent",
+        "symbolSize": 8.152382000000001,
+        "x": -225.73984,
+        "y": 82.41631,
+        "value": 12.228573,
+        "category": 4
+    },
+    {
+        "id": "29",
+        "name": "Bamatabois",
+        "symbolSize": 15.466666666666667,
+        "x": -385.6842,
+        "y": -20.206686,
+        "value": 23.2,
+        "category": 3
+    },
+    {
+        "id": "30",
+        "name": "Perpetue",
+        "symbolSize": 4.495239333333333,
+        "x": -403.92447,
+        "y": -197.69823,
+        "value": 6.742859,
+        "category": 2
+    },
+    {
+        "id": "31",
+        "name": "Simplice",
+        "symbolSize": 8.152382000000001,
+        "x": -281.4253,
+        "y": -158.45137,
+        "value": 12.228573,
+        "category": 2
+    },
+    {
+        "id": "32",
+        "name": "Scaufflaire",
+        "symbolSize": 2.6666666666666665,
+        "x": -122.41348,
+        "y": 210.37503,
+        "value": 4,
+        "category": 1
+    },
+    {
+        "id": "33",
+        "name": "Woman1",
+        "symbolSize": 4.495239333333333,
+        "x": -234.6001,
+        "y": -113.15067,
+        "value": 6.742859,
+        "category": 1
+    },
+    {
+        "id": "34",
+        "name": "Judge",
+        "symbolSize": 11.809524666666666,
+        "x": -387.84915,
+        "y": 58.7059,
+        "value": 17.714287,
+        "category": 3
+    },
+    {
+        "id": "35",
+        "name": "Champmathieu",
+        "symbolSize": 11.809524666666666,
+        "x": -338.2307,
+        "y": 87.48405,
+        "value": 17.714287,
+        "category": 3
+    },
+    {
+        "id": "36",
+        "name": "Brevet",
+        "symbolSize": 11.809524666666666,
+        "x": -453.26874,
+        "y": 58.94648,
+        "value": 17.714287,
+        "category": 3
+    },
+    {
+        "id": "37",
+        "name": "Chenildieu",
+        "symbolSize": 11.809524666666666,
+        "x": -386.44904,
+        "y": 140.05937,
+        "value": 17.714287,
+        "category": 3
+    },
+    {
+        "id": "38",
+        "name": "Cochepaille",
+        "symbolSize": 11.809524666666666,
+        "x": -446.7876,
+        "y": 123.38005,
+        "value": 17.714287,
+        "category": 3
+    },
+    {
+        "id": "39",
+        "name": "Pontmercy",
+        "symbolSize": 6.323809333333333,
+        "x": 336.49738,
+        "y": -269.55914,
+        "value": 9.485714,
+        "category": 6
+    },
+    {
+        "id": "40",
+        "name": "Boulatruelle",
+        "symbolSize": 2.6666666666666665,
+        "x": 29.187843,
+        "y": -460.13132,
+        "value": 4,
+        "category": 7
+    },
+    {
+        "id": "41",
+        "name": "Eponine",
+        "symbolSize": 20.95238266666667,
+        "x": 238.36697,
+        "y": -210.00926,
+        "value": 31.428574,
+        "category": 7
+    },
+    {
+        "id": "42",
+        "name": "Anzelma",
+        "symbolSize": 6.323809333333333,
+        "x": 189.69513,
+        "y": -346.50662,
+        "value": 9.485714,
+        "category": 7
+    },
+    {
+        "id": "43",
+        "name": "Woman2",
+        "symbolSize": 6.323809333333333,
+        "x": -187.00418,
+        "y": -145.02663,
+        "value": 9.485714,
+        "category": 6
+    },
+    {
+        "id": "44",
+        "name": "MotherInnocent",
+        "symbolSize": 4.495239333333333,
+        "x": -252.99521,
+        "y": 129.87549,
+        "value": 6.742859,
+        "category": 4
+    },
+    {
+        "id": "45",
+        "name": "Gribier",
+        "symbolSize": 2.6666666666666665,
+        "x": -296.07935,
+        "y": 163.11964,
+        "value": 4,
+        "category": 4
+    },
+    {
+        "id": "46",
+        "name": "Jondrette",
+        "symbolSize": 2.6666666666666665,
+        "x": 550.3201,
+        "y": 522.4031,
+        "value": 4,
+        "category": 5
+    },
+    {
+        "id": "47",
+        "name": "MmeBurgon",
+        "symbolSize": 4.495239333333333,
+        "x": 488.13535,
+        "y": 356.8573,
+        "value": 6.742859,
+        "category": 5
+    },
+    {
+        "id": "48",
+        "name": "Gavroche",
+        "symbolSize": 41.06667066666667,
+        "x": 387.89572,
+        "y": 110.462326,
+        "value": 61.600006,
+        "category": 8
+    },
+    {
+        "id": "49",
+        "name": "Gillenormand",
+        "symbolSize": 13.638097333333334,
+        "x": 126.4831,
+        "y": 68.10622,
+        "value": 20.457146,
+        "category": 6
+    },
+    {
+        "id": "50",
+        "name": "Magnon",
+        "symbolSize": 4.495239333333333,
+        "x": 127.07365,
+        "y": -113.05923,
+        "value": 6.742859,
+        "category": 6
+    },
+    {
+        "id": "51",
+        "name": "MlleGillenormand",
+        "symbolSize": 13.638097333333334,
+        "x": 162.63559,
+        "y": 117.6565,
+        "value": 20.457146,
+        "category": 6
+    },
+    {
+        "id": "52",
+        "name": "MmePontmercy",
+        "symbolSize": 4.495239333333333,
+        "x": 353.66415,
+        "y": -205.89165,
+        "value": 6.742859,
+        "category": 6
+    },
+    {
+        "id": "53",
+        "name": "MlleVaubois",
+        "symbolSize": 2.6666666666666665,
+        "x": 165.43939,
+        "y": 339.7736,
+        "value": 4,
+        "category": 6
+    },
+    {
+        "id": "54",
+        "name": "LtGillenormand",
+        "symbolSize": 8.152382000000001,
+        "x": 137.69348,
+        "y": 196.1069,
+        "value": 12.228573,
+        "category": 6
+    },
+    {
+        "id": "55",
+        "name": "Marius",
+        "symbolSize": 35.58095333333333,
+        "x": 206.44687,
+        "y": -13.805411,
+        "value": 53.37143,
+        "category": 6
+    },
+    {
+        "id": "56",
+        "name": "BaronessT",
+        "symbolSize": 4.495239333333333,
+        "x": 194.82993,
+        "y": 224.78036,
+        "value": 6.742859,
+        "category": 6
+    },
+    {
+        "id": "57",
+        "name": "Mabeuf",
+        "symbolSize": 20.95238266666667,
+        "x": 597.6618,
+        "y": 135.18481,
+        "value": 31.428574,
+        "category": 8
+    },
+    {
+        "id": "58",
+        "name": "Enjolras",
+        "symbolSize": 28.266666666666666,
+        "x": 355.78366,
+        "y": -74.882454,
+        "value": 42.4,
+        "category": 8
+    },
+    {
+        "id": "59",
+        "name": "Combeferre",
+        "symbolSize": 20.95238266666667,
+        "x": 515.2961,
+        "y": -46.167564,
+        "value": 31.428574,
+        "category": 8
+    },
+    {
+        "id": "60",
+        "name": "Prouvaire",
+        "symbolSize": 17.295237333333333,
+        "x": 614.29285,
+        "y": -69.3104,
+        "value": 25.942856,
+        "category": 8
+    },
+    {
+        "id": "61",
+        "name": "Feuilly",
+        "symbolSize": 20.95238266666667,
+        "x": 550.1917,
+        "y": -128.17537,
+        "value": 31.428574,
+        "category": 8
+    },
+    {
+        "id": "62",
+        "name": "Courfeyrac",
+        "symbolSize": 24.609526666666667,
+        "x": 436.17184,
+        "y": -12.7286825,
+        "value": 36.91429,
+        "category": 8
+    },
+    {
+        "id": "63",
+        "name": "Bahorel",
+        "symbolSize": 22.780953333333333,
+        "x": 602.55225,
+        "y": 16.421427,
+        "value": 34.17143,
+        "category": 8
+    },
+    {
+        "id": "64",
+        "name": "Bossuet",
+        "symbolSize": 24.609526666666667,
+        "x": 455.81955,
+        "y": -115.45826,
+        "value": 36.91429,
+        "category": 8
+    },
+    {
+        "id": "65",
+        "name": "Joly",
+        "symbolSize": 22.780953333333333,
+        "x": 516.40784,
+        "y": 47.242233,
+        "value": 34.17143,
+        "category": 8
+    },
+    {
+        "id": "66",
+        "name": "Grantaire",
+        "symbolSize": 19.12381,
+        "x": 646.4313,
+        "y": -151.06331,
+        "value": 28.685715,
+        "category": 8
+    },
+    {
+        "id": "67",
+        "name": "MotherPlutarch",
+        "symbolSize": 2.6666666666666665,
+        "x": 668.9568,
+        "y": 204.65488,
+        "value": 4,
+        "category": 8
+    },
+    {
+        "id": "68",
+        "name": "Gueulemer",
+        "symbolSize": 19.12381,
+        "x": 78.4799,
+        "y": -347.15146,
+        "value": 28.685715,
+        "category": 7
+    },
+    {
+        "id": "69",
+        "name": "Babet",
+        "symbolSize": 19.12381,
+        "x": 150.35959,
+        "y": -298.50797,
+        "value": 28.685715,
+        "category": 7
+    },
+    {
+        "id": "70",
+        "name": "Claquesous",
+        "symbolSize": 19.12381,
+        "x": 137.3717,
+        "y": -410.2809,
+        "value": 28.685715,
+        "category": 7
+    },
+    {
+        "id": "71",
+        "name": "Montparnasse",
+        "symbolSize": 17.295237333333333,
+        "x": 234.87747,
+        "y": -400.85983,
+        "value": 25.942856,
+        "category": 7
+    },
+    {
+        "id": "72",
+        "name": "Toussaint",
+        "symbolSize": 6.323809333333333,
+        "x": 40.942253,
+        "y": 113.78272,
+        "value": 9.485714,
+        "category": 1
+    },
+    {
+        "id": "73",
+        "name": "Child1",
+        "symbolSize": 4.495239333333333,
+        "x": 437.939,
+        "y": 291.58234,
+        "value": 6.742859,
+        "category": 8
+    },
+    {
+        "id": "74",
+        "name": "Child2",
+        "symbolSize": 4.495239333333333,
+        "x": 466.04922,
+        "y": 283.3606,
+        "value": 6.742859,
+        "category": 8
+    },
+    {
+        "id": "75",
+        "name": "Brujon",
+        "symbolSize": 13.638097333333334,
+        "x": 238.79364,
+        "y": -314.06345,
+        "value": 20.457146,
+        "category": 7
+    },
+    {
+        "id": "76",
+        "name": "MmeHucheloup",
+        "symbolSize": 13.638097333333334,
+        "x": 712.18353,
+        "y": 4.8131495,
+        "value": 20.457146,
+        "category": 8
+    }
+]
