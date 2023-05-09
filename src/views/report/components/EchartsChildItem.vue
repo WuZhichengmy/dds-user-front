@@ -23,12 +23,18 @@
         :key="index + 'item_component'"
       >
         <div class="echarts-item-component">
-          <component
-            :is="componentName(item.type)"
-            :data="item.data"
-            :config="item.config ? JSON.parse(item.config) : {}"
-            :theme="theme"
-          />
+          <div v-if="componentName(item.type) !== 'GraphChart'">
+            <component
+              :is="componentName(item.type)"
+              :data="item.data"
+              :config="item.config ? JSON.parse(item.config) : {}"
+              :theme="theme"
+            />
+          </div>
+          <!--if graph-->
+          <div v-else>
+            <graph-editor :item="item" :theme="theme"></graph-editor>
+          </div>
           <div v-if="item.desc" class="desc" :title="item.desc">
             <div>{{ item.desc }}</div>
           </div>
@@ -65,10 +71,14 @@ import {
 
 import Information from './Information'
 import Loading from '@/components/Loading'
+import DataFilter from "../../../components/Echarts/DataFilter";
+import GraphEditor from "../../../components/Echarts/GraphEditor";
 
 export default {
   name: 'EchartsChildItem',
   components: {
+    GraphEditor,
+    DataFilter,
     BarChart,
     LineChart,
     PieChart,
@@ -103,7 +113,8 @@ export default {
     }
   },
   watch: {},
-  mounted() {}
+  mounted() {
+  }
 }
 </script>
 

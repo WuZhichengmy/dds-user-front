@@ -95,7 +95,7 @@ export default {
       const { data } = this
       const text = data.title
       data.title = {
-        text: text
+        text,
       }
       this.initChart(data)
     }

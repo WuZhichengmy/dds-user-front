@@ -8,7 +8,7 @@
 import mixin from './mixins'
 
 export default {
-  name: 'Linechart',
+  name: 'LineChart',
   mixins: [mixin],
   props: {
     config: {
@@ -127,7 +127,7 @@ export default {
       const { data } = this
       const msg = data.title
       data.title = {
-        text: msg
+        msg,
       }
       this.initChart(data)
     }

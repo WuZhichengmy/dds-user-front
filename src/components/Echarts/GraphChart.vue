@@ -6,8 +6,6 @@
 
 <script>
 import mixin from './mixins'
-// let data = require('./data.json')
-// let links = require('./link.json')
 export default {
   name: 'GraphChart',
   mixins: [mixin],
@@ -19,110 +17,9 @@ export default {
         return {}
       },
     },
-    data: {
+    shareItem: {
       type: Object,
       required: false,
-      default: () => {
-        return {
-          title: '关系图',
-          series: {
-            data: [
-              {
-                name: 'Annelli Sandbæk(10)',
-                value: 10,
-                symbolSize: 9.486832980505138,
-              },
-              {
-                name: 'Torsten Lauritzen(15)',
-                value: 15,
-                symbolSize: 11.618950038622252,
-              },
-              {
-                name: '杨跃进(24)',
-                value: 24,
-                symbolSize: 14.696938456699067,
-              },
-              {
-                name: '吴永健(23)',
-                value: 23,
-                symbolSize: 14.387494569938157,
-              },
-              {
-                name: '徐波(11)',
-                value: 11,
-                symbolSize: 9.9498743710662,
-              },
-            ],
-            links: [
-              {
-                source: 'Annelli Sandbæk(10)',
-                target: 'Torsten Lauritzen(15)',
-                value: '10',
-              },
-              {
-                source: '杨跃进(24)',
-                target: '徐波(11)',
-                value: '10',
-              },
-              {
-                source: '吴永健(23)',
-                target: '陈纪林(12)',
-                value: '10',
-              },
-              {
-                source: '杨慧霞(54)',
-                target: '孙伟杰(10)',
-                value: '10',
-              },
-              {
-                source: 'Fereidoun Azizi(14)',
-                target: 'Farzad Hadaegh(11)',
-                value: '10',
-              },
-              {
-                source: '王守力(10)',
-                target: '韩雅玲(15)',
-                value: '10',
-              },
-              {
-                source: '王天松(11)',
-                target: '李新明(14)',
-                value: '10',
-              },
-              {
-                source: '裴汉军(11)',
-                target: '宋光远(14)',
-                value: '10',
-              },
-              {
-                source: '陈纪林(12)',
-                target: '乔树宾(17)',
-                value: '10',
-              },
-              {
-                source: 'Shoichiro Tsugane(15)',
-                target: 'Manami Inoue(10)',
-                value: '10',
-              },
-              {
-                source: 'Peter Rossing(12)',
-                target: 'Hans-Henrik Parving(12)',
-                value: '10',
-              },
-              {
-                source: '王薇(26)',
-                target: '孙佳艺(11)',
-                value: '10',
-              },
-              {
-                source: '宋光远(14)',
-                target: '杨跃进(24)',
-                value: '10',
-              },
-            ],
-          },
-        }
-      },
     },
   },
   data() {
@@ -165,7 +62,7 @@ export default {
           draggable: true,
           lineStyle: {
             width: 1,
-            color: '#dedede',
+            color: '#7c7c7c',
             opacity: 0.9,
             curveness: 0.3,
           },
@@ -236,14 +133,16 @@ export default {
   },
   methods: {
     dataClean() {
-      const { data } = this
-      const text = data.title
-      data.title = {
+      const text = this.shareItem.data.title
+      this.shareItem.data.title = {
         text,
       }
-      console.log(data)
-      this.initChart(data)
+      this.initChart(this.shareItem.data)
     },
+    dataRefresh() {
+      this.initChart(this.shareItem.data)
+    }
+
     // initChart(data) {
     //   this.chart = echarts.init(this.$el, 'macarons', {
     //     renderer: 'canvas',

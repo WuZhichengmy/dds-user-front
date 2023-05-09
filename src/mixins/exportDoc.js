@@ -1,5 +1,5 @@
 import html2canvas from 'html2canvas'
-import JsPdf, { jsPDF } from 'jspdf'
+import JsPdf from 'jspdf'
 
 // import docxtemplater from 'docxtemplater'
 // import JSZipUtils from 'jszip-utils'
@@ -71,7 +71,7 @@ export default {
     pageToPdf(id, name, cb = false) {
       html2canvas(
         // 'echarts-item'
-        document.getElementById(id).getElementsByClassName('analysis-field')[0],
+        document.getElementById(id).getElementsByClassName('echarts-item')[0],
         {
           allowTaint: true,
           taintTest: false,
@@ -88,7 +88,7 @@ export default {
         let imgWidth = 555.28
         let imgHeight = (555.28 / contentWidth) * contentHeight
         let pageData = canvas.toDataURL('image/jpeg', 1.0)
-        let PDF = new jsPDF('p', 'pt', 'a4')
+        let PDF = new JsPdf('p', 'pt', 'a4')
         if (leftHeight < pageHeight) {
           PDF.addImage(pageData, 'JPEG', 20, 0, imgWidth, imgHeight)
         } else {
