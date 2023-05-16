@@ -137,10 +137,10 @@ export default {
       this.shareItem.data.title = {
         text,
       }
-      this.initChart(this.shareItem.data)
+      this.initChart(this.shareItem.data);
     },
     dataRefresh() {
-      this.initChart(this.shareItem.data)
+      this.initChart(this.shareItem.data);
     }
 
     // initChart(data) {

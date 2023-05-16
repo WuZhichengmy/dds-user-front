@@ -2,12 +2,12 @@
   <div>
     <div>
       <graph-chart :theme="theme"
-                   :share-item="item"
-                   :config="item.config ? JSON.parse(item.config) : {}" ref="graph"></graph-chart>
+      :share-item="item"
+      :config="item.config ? JSON.parse(item.config) : {}" ref="graph"></graph-chart>
     </div>
-    <div>
+    <div class="filter-container">
       <data-filter :share-item="item" ref="filter"></data-filter>
-    </div>
+    </div><br>
   </div>
 </template>
 
@@ -43,5 +43,7 @@ export default {
 </script>
 
 <style scoped>
-
+.filter-container {
+  float: right;
+}
 </style>

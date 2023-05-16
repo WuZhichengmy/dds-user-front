@@ -58,7 +58,7 @@ export default {
   beforeDestroy() {
     window.removeEventListener('resize', this.__resizeHandler)
     if (this.chart) {
-      this.chart.dispose()
+      this.chart.dispose();
       this.chart = null
     }
   },
@@ -68,9 +68,11 @@ export default {
       this.chart = this.echarts.init($el, theme, {
         renderer: 'canvas'
       })
+      this.chart.off();
       this.chart.on('finished', () => {
         eventBus.$emit('on-loaded')
       })
+      this.chart.off();
       this.chart.on('rendered', params => {
         let picBase64 = this.chart.getDataURL({
           type: 'png',
@@ -99,7 +101,8 @@ export default {
           })
         }
       }
-      this.chart.setOption(this.current.options)
+      this.chart.clear();
+      this.chart.setOption(this.current.options);
     },
     // 处理图表基本配置
     baseOption({ baseConfig, config, data }) {
@@ -140,7 +143,7 @@ export default {
             : null
         }
       })
-      console.log(data, baseOption)
+      // console.log(data, baseOption)
       return baseOption
     },
     // 处理图表移动端适应配置
