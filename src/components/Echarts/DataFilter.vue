@@ -1,20 +1,22 @@
 <template>
   <div>
     <div>
-      <img class="update-button" v-on:click="updateGraph" src="@/assets/images/update.png" alt="更新" title="更新">
-      <img class="update-button" v-on:click="filterValue" src="@/assets/images/filter.png" alt="过滤" title="过滤">
-      <img class="update-button" v-on:click="resetFilter" src="@/assets/images/reset.png" alt="重置" title="重置">
+      <img class="update-button no-select" v-on:click="updateGraph" src="@/assets/images/update.png" alt="更新" title="更新">
+      <img class="update-button no-select" v-on:click="filterValue" src="@/assets/images/filter.png" alt="过滤" title="过滤">
+      <img class="update-button no-select" v-on:click="resetFilter" src="@/assets/images/reset.png" alt="重置" title="重置">
     </div>
-    <div v-if="showSliderPage" class="floating-list">
+    <div v-if="showSliderPage" class="floating-list" :class="{ 'dragging': isDragging }"
+         :style="{ transform: 'translate(' + translateX + 'px, ' + translateY + 'px)' }"
+         @mousedown="startDragging" @mousemove="onDragging" @mouseup="stopDragging">
       <div class="slider-container">
-        <label for="slider1" style="max-width:90px; display: inline-block">关系值下限 : {{ linkValue }}</label>
+        <label class="no-select" for="slider1" style="max-width:90px; display: inline-block">关系值下限 : {{ linkValue }}</label>
         <input id="slider1" type="range"
                :min="minLinkValue"
                :max="maxLinkValue"
                v-model="linkValue">
       </div>
       <div class="slider-container">
-        <label for="slider2" style="max-width:90px; display: inline-block">结点值下限 : {{ nodeValue }}</label>
+        <label class="no-select" for="slider2" style="max-width:90px; display: inline-block">结点值下限 : {{ nodeValue }}</label>
         <input id="slider2" type="range"
                :min="minNodeValue"
                :max="maxNodeValue"
@@ -23,18 +25,19 @@
       <button class="apply-button" v-on:click="applySlider">应用</button>
       <button class="close-button" v-on:click="closeSlider">关闭</button>
     </div>
-    <div v-if="showList" class="floating-list">
+    <div v-if="showList" class="floating-list" :class="{ 'dragging': isDragging }"
+         :style="{ transform: 'translate(' + translateX + 'px, ' + translateY + 'px)' }"
+         @mousedown="startDragging" @mousemove="onDragging" @mouseup="stopDragging">
       <div>
         <input class="input" type="text" v-model="filterKeyword" placeholder="输入关键词进行搜索">
         <button class="search-button" v-on:click="searchList">搜索</button>
       </div>
-    <ol class="list" v-on:update="onFilterUpdate">
-      <li class="list-content" v-for="(item, index) in filteredData" :key="index"
-          @click="removeItem(index)"
-          @mouseenter="mouseEnterLi"
-          @mouseleave="mouseLeaveLi"
-          :class="{ 'highlight': filterKeyword && item.name.includes(filterKeyword) }"
-      >{{ item.name + " : " + item.value }}</li>
+    <ol class="list">
+      <li class="list-content" v-for="(item, index) in originalData" :key="index"
+          @click="toggleItem(item, index)"
+          :class="{ 'highlight': filterKeyword && item.name.includes(filterKeyword),
+          'line-through': itemsState[index]}"
+      ref="liElement">{{ item.name + " : " + item.value }}</li>
     </ol>
       <button class="apply-button" v-on:click="applyFloatingList">应用</button>
       <button class="close-button" v-on:click="closeFloatingList">关闭</button>
@@ -52,7 +55,7 @@ export default {
   },
   data() {
     return {
-
+      itemsState: [],
       showSliderPage: false,
       minLinkValue:this.getMinElem(this.sortDesc(this.shareItem.data.series.links)),
       maxLinkValue:this.getMaxElem(this.sortDesc(this.shareItem.data.series.links)),
@@ -70,7 +73,17 @@ export default {
 
       originalLinkData: deepCopy(this.shareItem.data.series.links),
       filteredLinkData: this.shareItem.data.series.links,
+
+      // 拖动页属性
+      isDragging: false,
+      startX: 0,
+      startY: 0,
+      translateX: 0,
+      translateY: 0
     };
+  },
+  mounted() {
+    this.itemsState = this.originalData.map(() => false);
   },
   methods: {
     filterValue() {
@@ -135,11 +148,22 @@ export default {
       this.shareItem.data.series.links = this.filteredLinkData = deepCopy(this.originalLinkData);
       this.linkValue = this.minLinkValue;
       this.nodeValue = this.minNodeValue;
+      this.itemsState = this.originalData.map(() => false);
       this.refreshChart();
     },
-    // 移除某一项数据
-    removeItem(index) {
-      this.filteredData.splice(index, 1);
+    // 改写某一项数据
+    toggleItem(item, index) {
+      this.$set(this.itemsState, index, !this.itemsState[index]);
+      const liElement = this.$refs.liElement;
+      const dataIndex = this.filteredData.findIndex(i => i.name === item.name);
+      if (dataIndex !== -1) {
+        this.filteredData.splice(dataIndex, 1);
+        liElement.at(index).style.textDecoration = 'line-through';
+      } else {
+        this.filteredData.push(item);
+        this.sortDesc(this.filteredData);
+        liElement.at(index).style.textDecoration = 'none';
+      }
     },
     updateGraph() {
       this.showList = true;
@@ -149,19 +173,49 @@ export default {
         return b.value - a.value;
       })
     },
-    mouseEnterLi(e) {
-      e.target.style.textDecoration = "line-through";
-    },
-    mouseLeaveLi(e) {
-      e.target.style.textDecoration = "none";
-    },
     getMaxElem(arr) {
       return this.sortDesc(arr)[0].value;
     },
     getMinElem(arr) {
       return this.sortDesc(arr)[arr.length - 1].value;
+    },
+
+    startDragging(event) {
+      this.isDragging = true;
+      this.startX = event.clientX;
+      this.startY = event.clientY;
+      document.body.addEventListener('mouseleave', this.stopDragging);
+    },
+    onDragging(event) {
+      if (this.isDragging) {
+        const offsetX = event.clientX - this.startX;
+        const offsetY = event.clientY - this.startY;
+        this.translateX += offsetX;
+        this.translateY += offsetY;
+        this.startX = event.clientX;
+        this.startY = event.clientY;
+      }
+    },
+    stopDragging(event) {
+      this.isDragging = false;
+      document.body.removeEventListener('mouseleave', this.stopDragging);
+    },
+  },
+  watch: {
+    isDragging(newValue) {
+      if (newValue) {
+        document.addEventListener('mousemove', this.onDragging);
+        document.addEventListener('mouseup', this.stopDragging);
+      } else {
+        document.removeEventListener('mousemove', this.onDragging);
+        document.removeEventListener('mouseup', this.stopDragging);
+      }
     }
   },
+  beforeUnmount() {
+    document.removeEventListener('mousemove', this.onDragging);
+    document.removeEventListener('mouseup', this.stopDragging);
+  }
 };
 </script>
 
@@ -216,6 +270,11 @@ button:active {
   background-color: white;
   border: 1px solid black;
   padding: 10px;
+  transition: transform 0.05s linear;
+  z-index: 1000;
+}
+.dragging {
+  cursor: move;
 }
 .close-button {
   background-color: #ff4c4c;
@@ -264,5 +323,11 @@ button:active {
 }
 .apply-button:hover {
   background-color: #9a492a;
+}
+.line-through {
+  text-decoration: line-through;
+}
+* {
+  user-select: none;
 }
 </style>
