@@ -35,7 +35,7 @@
     <ol class="list">
       <li class="list-content" v-for="(item, index) in originalData" :key="index"
           @click="toggleItem(item, index)"
-          :class="{ 'highlight': filterKeyword && item.name.includes(filterKeyword),
+          :class="{ 'highlight': filterKeyword && !itemsState[index] && item.name.includes(filterKeyword),
           'line-through': itemsState[index]}"
       ref="liElement">{{ item.name + " : " + item.value }}</li>
     </ol>
