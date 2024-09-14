@@ -6,11 +6,13 @@
 
 <script>
 import mixin from './mixins'
-require('echarts-wordcloud')
+// import wordCloud from 'C:/Study/202302/dds/dds-frontend/dds-web/src/common/echarts-wordcloud.min.js'
+// require('echarts-wordcloud')
+import * as echarts from 'echarts';
+import 'echarts-wordcloud';
 
 export default {
   name: 'WordCloud',
-  mixins: [mixin],
   props: {
     config: {
       type: Object,
@@ -26,6 +28,13 @@ export default {
         return {
           title: '词云图',
           series: {
+            type: 'wordCloud',
+            width: '100%',
+            height: '50%',
+            length: 20,
+            gridSize: 15,
+            sizeRange: [20, 21],
+            rotationRange: [0, 20],
             data: [
               {
                 name: '花鸟市场',

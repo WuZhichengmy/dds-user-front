@@ -64,12 +64,15 @@ export default {
   },
   methods: {
     initChart(data = null) {
+      console.log("index.js")
       const { media, baseConfig, config, theme, $el } = this
       this.chart = this.echarts.init($el, theme, {
         renderer: 'canvas'
       })
+      console.log("init")
       this.chart.off();
       this.chart.on('finished', () => {
+        console.log("12345")
         eventBus.$emit('on-loaded')
       })
       this.chart.off();
@@ -102,7 +105,9 @@ export default {
         }
       }
       this.chart.clear();
+      console.log(this.current.options)
       this.chart.setOption(this.current.options);
+      console.log("finish")
     },
     // 处理图表基本配置
     baseOption({ baseConfig, config, data }) {

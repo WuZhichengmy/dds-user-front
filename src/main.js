@@ -13,6 +13,7 @@ import './assets/styles/iview/iview.css'
 import './assets/styles/iview/custom.css'
 import './assets/styles/index.scss'
 import './assets/styles/common.css'
+import 'echarts-wordcloud'
 
 // icon
 import './assets/icons'

@@ -553,6 +553,7 @@ export default {
       const temp = data
       data.map(async (item, index) => {
         const res = await reportResult(item.id, queryParameter)
+        console.log("aaa"+res)
         this.chartInfo.count += res.components.length
         temp[index].data = res ? res : []
         Vue.set(this, 'navData', this.cleanData(deepClone(temp)))
